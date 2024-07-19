@@ -8,15 +8,16 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 def search_and_open_w3schools_article(keyword):
-    chrome_driver_path = "D:\\Programs\\chromedriver-win64\\chromedriver.exe"  # Pastikan path ini benar
+    chrome_driver_path = "D:\Programs\chromedriver-win64\chromedriver-win64\chromedriver.exe"  # Pastikan path ini benar
 
     chrome_options = Options()
     service = Service(chrome_driver_path)
     driver = webdriver.Chrome(service=service, options=chrome_options)
+    driver.set_window_position(0, 0)  # Set window to the top-left corner
+    driver.set_window_size(683, 768) 
 
     try:
         driver.get("https://www.tokopedia.com")
-        driver.maximize_window()
         wait = WebDriverWait(driver, 20)  # Meningkatkan waktu tunggu
 
         # Cari kotak pencarian
@@ -38,12 +39,14 @@ def search_and_open_w3schools_article(keyword):
 
         # Scroll down
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(5)  # Tunggu lebih lama untuk memastikan halaman telah di-scroll dan elemen telah dimuat
+        driver.implicitly_wait(10)
 
         # Ambil nama produk
         nama2_produk = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'css-1sn1xa2')))
         
-        for result, i in nama2_produk:
+        for i, result in enumerate(nama2_produk):
+
+            nama2_produk = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'css-1sn1xa2')))
             product_link = result.find_element(By.TAG_NAME, 'a').get_attribute('href')
             driver.execute_script("window.open(arguments[0]);", product_link)
             driver.switch_to.window(driver.window_handles[-1])

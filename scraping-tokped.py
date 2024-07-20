@@ -21,9 +21,38 @@ def fetchingProducts(wait, driver):
         driver.execute_script("window.scrollBy(0, 800);")
         time.sleep(4)
         
-        paginations = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'a[data-testid="btnShopProductPageNext"]')))
-        
-        if paginations:
+        try:
+            paginations = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'a[data-testid="btnShopProductPageNext"]')))
+            if paginations:
+                # Ambil nama produk
+                products = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'css-1sn1xa2')))
+                print(f"jumlah data: {len(products)}")
+                
+                for index, product in enumerate(products):
+                    # products = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'css-1sn1xa2')))
+                    product_link = product.find_element(By.TAG_NAME, 'a').get_attribute('href')
+                    driver.execute_script("window.open(arguments[0]);", product_link)
+                    driver.switch_to.window(driver.window_handles[-1])
+                    
+                    try:
+                        # Verifikasi XPath yang benar untuk halaman produk
+                        title = wait.until(EC.visibility_of_element_located((By.XPATH, '//*[@id="pdp_comp-product_content"]/div/div[1]/h1')))
+                        print(f"nama ke-{index + 1}: {title.text}")
+                    except Exception as e:
+                        print(f"Error mendapatkan title: {e}")
+                    
+                    driver.close()
+                    driver.switch_to.window(driver.window_handles[0])
+                
+                paginations.click()
+                page += 1
+                
+            else:
+                print("===== ambil produk selesai =======")
+                return False
+            
+        except Exception as e:
+            print(f"Pagination element not found or not clickable: {e}")
             # Ambil nama produk
             products = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'css-1sn1xa2')))
             print(f"jumlah data: {len(products)}")
@@ -45,11 +74,36 @@ def fetchingProducts(wait, driver):
                 driver.switch_to.window(driver.window_handles[0])
             
             paginations.click()
-            page += 1
-            
-        else:
             print("===== ambil produk selesai =======")
             return False
+        
+        # if paginations:
+        #     # Ambil nama produk
+        #     products = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'css-1sn1xa2')))
+        #     print(f"jumlah data: {len(products)}")
+            
+        #     for index, product in enumerate(products):
+        #         # products = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'css-1sn1xa2')))
+        #         product_link = product.find_element(By.TAG_NAME, 'a').get_attribute('href')
+        #         driver.execute_script("window.open(arguments[0]);", product_link)
+        #         driver.switch_to.window(driver.window_handles[-1])
+                
+        #         try:
+        #             # Verifikasi XPath yang benar untuk halaman produk
+        #             title = wait.until(EC.visibility_of_element_located((By.XPATH, '//*[@id="pdp_comp-product_content"]/div/div[1]/h1')))
+        #             print(f"nama ke-{index + 1}: {title.text}")
+        #         except Exception as e:
+        #             print(f"Error mendapatkan title: {e}")
+                
+        #         driver.close()
+        #         driver.switch_to.window(driver.window_handles[0])
+            
+        #     paginations.click()
+        #     page += 1
+            
+        # else:
+        #     print("===== ambil produk selesai =======")
+        #     return False
     
         
 

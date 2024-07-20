@@ -71,7 +71,7 @@ def startScraping(chrome_driver_path, keyword_search):
         search_box.send_keys(Keys.ENTER)
 
         # Cari tombol toko
-        search_toko = wait.until(EC.element_to_be_clickable((By.XPATH, "//*[@id='zeus-root']/div/div[2]/div/div[2]/div[1]/div/button[2]")))
+        search_toko = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'button[data-testid="btnSRPShopTab"]')))
         search_toko.click()
 
         # Klik toko
@@ -104,7 +104,7 @@ def startScraping(chrome_driver_path, keyword_search):
 
 
 chrome_driver_path = "D:\Programs\chromedriver-win64\chromedriver-win64\chromedriver.exe"
-keyword_search = "Toko Sembako Hijau"
+keyword_search = "Maestro Parfum"
 
 startScraping(chrome_driver_path, keyword_search)
 

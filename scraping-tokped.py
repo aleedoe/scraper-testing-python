@@ -104,7 +104,7 @@ def startScraping(chrome_driver_path, keyword_search):
 
 
 chrome_driver_path = "D:\Programs\chromedriver-win64\chromedriver-win64\chromedriver.exe"
-keyword_search = "Maestro Parfum"
+keyword_search = "Toko Sembako Hijau"
 
 startScraping(chrome_driver_path, keyword_search)
 

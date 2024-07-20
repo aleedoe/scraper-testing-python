@@ -21,7 +21,7 @@ def fetchingProducts(wait, driver):
         driver.execute_script("window.scrollBy(0, 800);")
         time.sleep(4)
         
-        paginations = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="zeus-root"]/div/div[2]/div[2]/div[4]/div/div[2]/div[2]/ul/a')))
+        paginations = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'a[data-testid="btnShopProductPageNext"]')))
         
         if paginations:
             # Ambil nama produk
@@ -45,13 +45,12 @@ def fetchingProducts(wait, driver):
                 driver.switch_to.window(driver.window_handles[0])
             
             paginations.click()
-            time.sleep(4)
             page += 1
             
         else:
+            print("===== ambil produk selesai =======")
             return False
     
-    print("===== ambil produk selesai =======")
         
 
 
@@ -76,18 +75,28 @@ def startScraping(chrome_driver_path, keyword_search):
         search_toko.click()
 
         # Klik toko
-        klik_toko = wait.until(EC.element_to_be_clickable((By.XPATH, "//*[@id='zeus-root']/div/div[2]/div/div[2]/div[2]/div[2]/div/div/a")))
-        klik_toko.click()
+        klik_toko = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div[data-testid="shop-card"]')))
+        for result in klik_toko:
+            try:
+                # Dapatkan elemen nama toko
+                toko_name_element = result.find_element(By.CSS_SELECTOR, 'span[data-testid="spnSRPShopName"]')
+                toko_name = toko_name_element.text
+                if keyword_search in toko_name:
+                    # Klik pada elemen toko
+                    toko_header = result.find_element(By.CSS_SELECTOR, 'a[data-testid="shop-card-header"]')
+                    toko_header.click()
+                    break
+            except Exception as e:
+                print(f"Terjadi kesalahan: {e}")
+        else:
+            print("Tidak ditemukan toko yang sesuai")
+        # klik_toko.click()
 
         # Klik produk
-        klik_produk = wait.until(EC.element_to_be_clickable((By.XPATH, "//*[@id='zeus-root']/div/div[2]/div[2]/div[2]/div/div/button[2]")))
+        klik_produk = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'button[data-testid="Produk"]')))
         klik_produk.click()
             # Mencetak pesan berhasil
 
-        # Scroll down
-        time.sleep(4)
-        driver.execute_script("window.scrollBy(0, 800);")
-        time.sleep(4)
         fetchingProducts(wait, driver)
 
     finally:
@@ -95,7 +104,7 @@ def startScraping(chrome_driver_path, keyword_search):
 
 
 chrome_driver_path = "D:\Programs\chromedriver-win64\chromedriver-win64\chromedriver.exe"
-keyword_search = "Gateway Indonesia Comp"
+keyword_search = "Maestro Parfum"
 
 startScraping(chrome_driver_path, keyword_search)
 

@@ -13,8 +13,8 @@ def search_and_open_w3schools_article(keyword):
     chrome_options = Options()
     service = Service(chrome_driver_path)
     driver = webdriver.Chrome(service=service, options=chrome_options)
-    driver.set_window_position(0, 0)  # Set window to the top-left corner
-    driver.set_window_size(683, 768) 
+    driver.maximize_window()
+    driver.implicitly_wait(10)
 
     try:
         driver.get("https://www.tokopedia.com")
@@ -36,17 +36,23 @@ def search_and_open_w3schools_article(keyword):
         # Klik produk
         klik_produk = wait.until(EC.element_to_be_clickable((By.XPATH, "//*[@id='zeus-root']/div/div[2]/div[2]/div[2]/div/div/button[2]")))
         klik_produk.click()
+            # Mencetak pesan berhasil
+        if klik_produk:
+            print("Test click: True")
+        else:
+            print("Test click: False")
 
         # Scroll down
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        driver.implicitly_wait(10)
+        time.sleep(2)
+        driver.execute_script("window.scrollBy(0, 1000);")
+        time.sleep(2)
 
         # Ambil nama produk
         nama2_produk = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'css-1sn1xa2')))
+        print(f"jumlah data: {len(nama2_produk)}")
         
         for i, result in enumerate(nama2_produk):
-
-            nama2_produk = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'css-1sn1xa2')))
+            # nama2_produk = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'css-1sn1xa2')))
             product_link = result.find_element(By.TAG_NAME, 'a').get_attribute('href')
             driver.execute_script("window.open(arguments[0]);", product_link)
             driver.switch_to.window(driver.window_handles[-1])

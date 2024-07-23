@@ -29,8 +29,20 @@ def fetchingProducts(wait, driver):
             # Ambil nama produk
             # products = wait.until(EC.visibility_of_element_located((By.CLASS_NAME, 'css-1sn1xa2')))
             products = wait.until(EC.visibility_of_element_located((By.CLASS_NAME, 'css-tjjb18')))
-            produk = products.find_element(By.XPATH, './..')
-            print(f"jumlah data: {products}")
+
+            # Find all product elements within the container
+            produk2 = products.find_elements(By.CLASS_NAME, 'css-1sn1xa2')
+
+            # Print each product element
+            for i, produk in enumerate(produk2, start=1):
+                products_container = wait.until(EC.visibility_of_element_located((By.CLASS_NAME, 'css-tjjb18')))
+                produk2 = products_container.find_elements(By.CLASS_NAME, 'css-1sn1xa2')
+                produk = produk2[i]
+                print(f"Product {i}:")
+                print(produk.text)
+                print("-" * 20)
+                produk.click()
+                driver.back()
             break
             
             for index, product in enumerate(products):

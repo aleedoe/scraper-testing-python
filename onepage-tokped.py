@@ -22,6 +22,7 @@ def fetchingProducts(wait, driver):
     # per_page_element.click()
     
     while True:
+        time.sleep(2)
         print(f"============= produk halaman: {page} ===============")
         try:
             products = wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'css-1sn1xa2')))
@@ -35,7 +36,6 @@ def fetchingProducts(wait, driver):
                     
                     product = result_container[index]
                     
-                    print(f"jumlah data saat looping: {len(products)}")
                     driver.execute_script("arguments[0].scrollIntoView(true);", product)
                     wait.until(EC.element_to_be_clickable(product)).click()
                     

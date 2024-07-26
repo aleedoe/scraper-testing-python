@@ -14,13 +14,7 @@ def fetchingProducts(wait, driver):
     get_url = driver.current_url
     print("The current url is:"+str(get_url))
     driver.get(str(get_url) + '?perpage=10')
-        
-    # Klik elemen setelah mengganti href
-    # per_page_element = wait.until(
-    #     EC.element_to_be_clickable((By.CSS_SELECTOR, 'span[class="css-10nze3y"]'))
-    # )
-    # per_page_element.click()
-    
+            
     while True:
         time.sleep(2)
         print(f"============= produk halaman: {page} ===============")

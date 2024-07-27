@@ -34,7 +34,11 @@ def fetchingProducts(wait, driver):
                     wait.until(EC.element_to_be_clickable(product)).click()
                     
                     title = wait.until(EC.visibility_of_element_located((By.XPATH, '//*[@id="pdp_comp-product_content"]/div/div[1]/h1')))
+                    price = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, 'div[data-testid="lblPDPDetailProductPrice"]')))
+                    print('================================')
                     print(f"nama ke-{index + 1}: {title.text}")
+                    print(f"harga: {price.text}")
+                    print('================================')
                     
                     driver.back()
                     

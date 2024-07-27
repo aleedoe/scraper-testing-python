@@ -1,0 +1,983 @@
+[
+    {
+        "data": {
+            "pdpGetLayout": {
+                "requestID": "cqielnj6p33sqvefh2f0",
+                "name": "Default Layout Desktop",
+                "pdpSession": "{\"sid\":263785,\"sd\":\"gateway\",\"cat\":{\"id\":3989,\"d\":[{\"name\":\"Komputer \\u0026 Laptop\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop\",\"id\":297,\"is_adult\":false},{\"name\":\"Laptop\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop/laptop\",\"id\":3844,\"is_adult\":false},{\"name\":\"Laptop 2 in 1\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop/laptop/laptop-2-in-1\",\"id\":3989,\"is_adult\":false}]},\"pid\":13720073612,\"ppn\":\"Lenovo Yoga 9 2IN1 Ultra 7-155H 32GB 1TB SSD Intel Arc 14.0\\\" 4K OLED W11 OHS\",\"dcid\":13720073614,\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"opr\":30999000,\"pr\":27299000,\"mo\":1,\"pn\":\"Lenovo Yoga 9 2IN1 Ultra 7-155H 32GB 1TB SSD Intel Arc 14.0\\\" 4K OLED W11 OHS - NON BUNDLING\",\"purl\":\"https://www.tokopedia.com/gateway/lenovo-yoga-9-2in1-ultra-7-155h-32gb-1tb-ssd-intel-arc-14-0-4k-oled-w11-ohs-non-bundling-912b0\",\"pa\":\"lenovo-yoga-9-2in1-ultra-7-155h-32gb-1tb-ssd-intel-arc-14-0-4k-oled-w11-ohs-non-bundling-912b0\",\"st\":29,\"cn\":\"new\",\"li\":1,\"ln\":\"Default Layout Desktop\",\"w\":4,\"sf\":{},\"nid\":3,\"ws\":{},\"stat\":{},\"fst\":[{\"FSID\":14784,\"PartnerName\":\"Genie1\",\"FSType\":0,\"ShopID\":263785}],\"mnwhs\":{\"13720073612\":{\"pid\":13720073612,\"wid\":112155,\"pr\":30999000},\"13720073614\":{\"pid\":13720073614,\"wid\":112155,\"pr\":27299000,\"s\":29},\"13720073615\":{\"pid\":13720073615,\"wid\":112155,\"pr\":27499000,\"s\":29},\"13720073616\":{\"pid\":13720073616,\"wid\":112155,\"pr\":27499000,\"s\":29},\"13720073617\":{\"pid\":13720073617,\"wid\":112155,\"pr\":27699000,\"s\":29},\"13720073618\":{\"pid\":13720073618,\"wid\":112155,\"pr\":27899000,\"s\":29}},\"umps\":3,\"nv\":{\"id\":0,\"n\":\"\",\"c\":[]},\"cr\":{\"error_reporter\":null,\"status\":\"\",\"data\":null,\"alternate_copy\":null},\"exp\":{\"saatc\":true},\"patcs\":{\"lid\":21,\"pi\":13720073614,\"pid\":13720073612,\"whid\":112155,\"pr\":27299000,\"opr\":30999000,\"cat\":{\"id\":3989},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}},\"v\":1,\"vd\":{\"13720073614\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":29,\"ib\":true,\"p\":27299000,\"op\":30999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":13720073614,\"pid\":13720073612,\"whid\":112155,\"pr\":27299000,\"opr\":30999000,\"cat\":{\"id\":3989},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"13720073615\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":29,\"ib\":true,\"p\":27499000,\"op\":30999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":13720073615,\"pid\":13720073612,\"whid\":112155,\"pr\":27499000,\"opr\":30999000,\"cat\":{\"id\":3989},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"13720073616\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":29,\"ib\":true,\"p\":27499000,\"op\":30999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":13720073616,\"pid\":13720073612,\"whid\":112155,\"pr\":27499000,\"opr\":30999000,\"cat\":{\"id\":3989},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"13720073617\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":29,\"ib\":true,\"p\":27699000,\"op\":30999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":13720073617,\"pid\":13720073612,\"whid\":112155,\"pr\":27699000,\"opr\":30999000,\"cat\":{\"id\":3989},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"13720073618\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":29,\"ib\":true,\"p\":27899000,\"op\":30999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":13720073618,\"pid\":13720073612,\"whid\":112155,\"pr\":27899000,\"opr\":30999000,\"cat\":{\"id\":3989},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}}},\"pi\":13720073614,\"pse\":1,\"ps\":\"ACTIVE\",\"src\":\"shop\",\"fc\":[\"tidak_kadaluwarsa\"],\"cui\":{},\"srq\":{\"rs\":4.9,\"tr\":7272,\"trt\":15320},\"prtg\":{\"rs\":\"0.0\",\"trf\":\"0\",\"trtif\":\"0\"},\"ispt\":true,\"p2c\":{},\"os\":true,\"swa\":true,\"etm\":true,\"ma\":[{\"t\":\"Fungsionalitas\",\"v\":[\"Kerja\"]},{\"t\":\"Kapasitas RAM\",\"v\":[\"32 GB\"]},{\"t\":\"Tahun Rilis\",\"v\":[\"2024\"]},{\"t\":\"Tipe Garansi\",\"v\":[\"Garansi Merek (Resmi)\"]},{\"t\":\"Tipe Processor\",\"v\":[\"intel\"]}],\"zid\":12}",
+                "basicInfo": {
+                    "alias": "lenovo-yoga-9-2in1-ultra-7-155h-32gb-1tb-ssd-intel-arc-14-0-4k-oled-w11-ohs-non-bundling-912b0",
+                    "createdAt": "2024-06-05T19:50:57+07:00",
+                    "isQA": false,
+                    "id": "13720073614",
+                    "shopID": "263785",
+                    "shopName": "Gateway Indonesia Comp",
+                    "minOrder": 1,
+                    "maxOrder": 10,
+                    "weight": 4000,
+                    "weightUnit": "GRAM",
+                    "condition": "NEW",
+                    "status": "ACTIVE",
+                    "url": "https://www.tokopedia.com/gateway/lenovo-yoga-9-2in1-ultra-7-155h-32gb-1tb-ssd-intel-arc-14-0-4k-oled-w11-ohs-non-bundling-912b0",
+                    "needPrescription": false,
+                    "catalogID": "0",
+                    "isLeasing": false,
+                    "isBlacklisted": false,
+                    "isTokoNow": false,
+                    "menu": {
+                        "id": "0",
+                        "name": "",
+                        "url": "",
+                        "__typename": "pdpMenu"
+                    },
+                    "category": {
+                        "id": "3989",
+                        "name": "Laptop 2 in 1",
+                        "title": "Laptop 2 in 1",
+                        "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/laptop/laptop-2-in-1",
+                        "isAdult": false,
+                        "isKyc": false,
+                        "minAge": 0,
+                        "detail": [
+                            {
+                                "id": "297",
+                                "name": "Komputer & Laptop",
+                                "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop",
+                                "isAdult": false,
+                                "__typename": "pdpCategoryDetail"
+                            },
+                            {
+                                "id": "3844",
+                                "name": "Laptop",
+                                "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/laptop",
+                                "isAdult": false,
+                                "__typename": "pdpCategoryDetail"
+                            },
+                            {
+                                "id": "3989",
+                                "name": "Laptop 2 in 1",
+                                "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/laptop/laptop-2-in-1",
+                                "isAdult": false,
+                                "__typename": "pdpCategoryDetail"
+                            }
+                        ],
+                        "__typename": "pdpCategory"
+                    },
+                    "txStats": {
+                        "transactionSuccess": "0",
+                        "transactionReject": "0",
+                        "countSold": "0",
+                        "paymentVerified": "0",
+                        "itemSoldFmt": "",
+                        "__typename": "pdpTxStats"
+                    },
+                    "stats": {
+                        "countView": "0",
+                        "countReview": "0",
+                        "countTalk": "0",
+                        "rating": 0,
+                        "__typename": "pdpStats"
+                    },
+                    "__typename": "pdpBasicInfo"
+                },
+                "components": [
+                    {
+                        "name": "product_media",
+                        "type": "product_media",
+                        "position": "[0,0,1,4]",
+                        "data": [
+                            {
+                                "media": [
+                                    {
+                                        "type": "image",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/10/8acae9e3-c934-46f2-ba2d-05546af72096.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/6/10/8acae9e3-c934-46f2-ba2d-05546af72096.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/10/8acae9e3-c934-46f2-ba2d-05546af72096.jpg",
+                                        "videoUrl": "",
+                                        "prefix": "https://images.tokopedia.net/img/cache/",
+                                        "suffix": "/VqbcmM/2024/6/10/8acae9e3-c934-46f2-ba2d-05546af72096.jpg",
+                                        "description": "",
+                                        "variantOptionID": "0",
+                                        "__typename": "pdpContentSnapshotMedia"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/10/cbfbb157-be3f-471f-ab8e-3cbb5e98d887.png",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/6/10/cbfbb157-be3f-471f-ab8e-3cbb5e98d887.png",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/10/cbfbb157-be3f-471f-ab8e-3cbb5e98d887.png",
+                                        "videoUrl": "",
+                                        "prefix": "https://images.tokopedia.net/img/cache/",
+                                        "suffix": "/VqbcmM/2024/6/10/cbfbb157-be3f-471f-ab8e-3cbb5e98d887.png",
+                                        "description": "",
+                                        "variantOptionID": "0",
+                                        "__typename": "pdpContentSnapshotMedia"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/10498c50-7bc3-4d7c-9155-c6d452a622e6.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/6/5/10498c50-7bc3-4d7c-9155-c6d452a622e6.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/10498c50-7bc3-4d7c-9155-c6d452a622e6.jpg",
+                                        "videoUrl": "",
+                                        "prefix": "https://images.tokopedia.net/img/cache/",
+                                        "suffix": "/VqbcmM/2024/6/5/10498c50-7bc3-4d7c-9155-c6d452a622e6.jpg",
+                                        "description": "",
+                                        "variantOptionID": "0",
+                                        "__typename": "pdpContentSnapshotMedia"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/d45b13b6-9eb1-4322-816d-50014d9ab5a9.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/6/5/d45b13b6-9eb1-4322-816d-50014d9ab5a9.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/d45b13b6-9eb1-4322-816d-50014d9ab5a9.jpg",
+                                        "videoUrl": "",
+                                        "prefix": "https://images.tokopedia.net/img/cache/",
+                                        "suffix": "/VqbcmM/2024/6/5/d45b13b6-9eb1-4322-816d-50014d9ab5a9.jpg",
+                                        "description": "",
+                                        "variantOptionID": "0",
+                                        "__typename": "pdpContentSnapshotMedia"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/8332fa47-a1e3-4296-8e05-cd2fb31c5f89.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/6/5/8332fa47-a1e3-4296-8e05-cd2fb31c5f89.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/8332fa47-a1e3-4296-8e05-cd2fb31c5f89.jpg",
+                                        "videoUrl": "",
+                                        "prefix": "https://images.tokopedia.net/img/cache/",
+                                        "suffix": "/VqbcmM/2024/6/5/8332fa47-a1e3-4296-8e05-cd2fb31c5f89.jpg",
+                                        "description": "",
+                                        "variantOptionID": "0",
+                                        "__typename": "pdpContentSnapshotMedia"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/19fa3a5e-ca8d-41cd-8f85-9ab23cadf587.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/6/5/19fa3a5e-ca8d-41cd-8f85-9ab23cadf587.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/19fa3a5e-ca8d-41cd-8f85-9ab23cadf587.jpg",
+                                        "videoUrl": "",
+                                        "prefix": "https://images.tokopedia.net/img/cache/",
+                                        "suffix": "/VqbcmM/2024/6/5/19fa3a5e-ca8d-41cd-8f85-9ab23cadf587.jpg",
+                                        "description": "",
+                                        "variantOptionID": "0",
+                                        "__typename": "pdpContentSnapshotMedia"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/27fb900b-1cd4-4205-bd9f-e7a533ad301f.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/6/5/27fb900b-1cd4-4205-bd9f-e7a533ad301f.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/27fb900b-1cd4-4205-bd9f-e7a533ad301f.jpg",
+                                        "videoUrl": "",
+                                        "prefix": "https://images.tokopedia.net/img/cache/",
+                                        "suffix": "/VqbcmM/2024/6/5/27fb900b-1cd4-4205-bd9f-e7a533ad301f.jpg",
+                                        "description": "",
+                                        "variantOptionID": "0",
+                                        "__typename": "pdpContentSnapshotMedia"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/de40673e-ed66-46b2-974d-e85414537d94.png",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/de40673e-ed66-46b2-974d-e85414537d94.png",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/de40673e-ed66-46b2-974d-e85414537d94.png",
+                                        "videoUrl": "",
+                                        "prefix": "https://images.tokopedia.net/img/cache/",
+                                        "suffix": "/VqbcmM/2024/6/5/de40673e-ed66-46b2-974d-e85414537d94.png",
+                                        "description": "BASIC 1",
+                                        "variantOptionID": "2473418259",
+                                        "__typename": "pdpContentSnapshotMedia"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/d14f36c7-f8b8-4efe-b1f5-c690577465e4.png",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/d14f36c7-f8b8-4efe-b1f5-c690577465e4.png",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/d14f36c7-f8b8-4efe-b1f5-c690577465e4.png",
+                                        "videoUrl": "",
+                                        "prefix": "https://images.tokopedia.net/img/cache/",
+                                        "suffix": "/VqbcmM/2024/6/5/d14f36c7-f8b8-4efe-b1f5-c690577465e4.png",
+                                        "description": "BASIC 2",
+                                        "variantOptionID": "2473418260",
+                                        "__typename": "pdpContentSnapshotMedia"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/b994ed5e-5b3b-47f0-8f51-b8defe27d47f.png",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/b994ed5e-5b3b-47f0-8f51-b8defe27d47f.png",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/b994ed5e-5b3b-47f0-8f51-b8defe27d47f.png",
+                                        "videoUrl": "",
+                                        "prefix": "https://images.tokopedia.net/img/cache/",
+                                        "suffix": "/VqbcmM/2024/6/5/b994ed5e-5b3b-47f0-8f51-b8defe27d47f.png",
+                                        "description": "BASIC 3",
+                                        "variantOptionID": "2473418261",
+                                        "__typename": "pdpContentSnapshotMedia"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/df1d770a-a1a9-4ece-af75-992fe5425be4.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/df1d770a-a1a9-4ece-af75-992fe5425be4.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/df1d770a-a1a9-4ece-af75-992fe5425be4.jpg",
+                                        "videoUrl": "",
+                                        "prefix": "https://images.tokopedia.net/img/cache/",
+                                        "suffix": "/VqbcmM/2024/6/5/df1d770a-a1a9-4ece-af75-992fe5425be4.jpg",
+                                        "description": "+W11 PRO",
+                                        "variantOptionID": "2473418262",
+                                        "__typename": "pdpContentSnapshotMedia"
+                                    }
+                                ],
+                                "videos": [],
+                                "__typename": "pdpDataProductMedia"
+                            }
+                        ],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "ticker_info",
+                        "type": "ticker_info",
+                        "position": "[1,0,1,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "variant_options",
+                        "type": "variant",
+                        "position": "[2,0,1,4]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "product_content",
+                        "type": "product_content",
+                        "position": "[1,1,1,1]",
+                        "data": [
+                            {
+                                "name": "Lenovo Yoga 9 2IN1 Ultra 7-155H 32GB 1TB SSD Intel Arc 14.0\" 4K OLED W11 OHS - NON BUNDLING",
+                                "price": {
+                                    "value": 27299000,
+                                    "currency": "IDR",
+                                    "priceFmt": "Rp27.299.000",
+                                    "slashPriceFmt": "Rp30.999.000",
+                                    "discPercentage": "12%",
+                                    "__typename": "pdpContentSnapshotPrice"
+                                },
+                                "campaign": {
+                                    "campaignID": "-10000",
+                                    "campaignType": "0",
+                                    "campaignTypeName": "Diskon Terbatas",
+                                    "campaignIdentifier": 2,
+                                    "background": "#D74049,#F56958",
+                                    "percentageAmount": 12,
+                                    "originalPrice": 30999000,
+                                    "discountedPrice": 27299000,
+                                    "originalStock": 29,
+                                    "stock": 29,
+                                    "stockSoldPercentage": 0,
+                                    "threshold": 0,
+                                    "startDate": "2024-06-05 13:01:33",
+                                    "endDate": "2025-06-05 13:01:00",
+                                    "endDateUnix": "1749103260",
+                                    "appLinks": "",
+                                    "isAppsOnly": false,
+                                    "isActive": true,
+                                    "hideGimmick": false,
+                                    "__typename": "pdpContentSnapshotCampaign"
+                                },
+                                "thematicCampaign": {
+                                    "additionalInfo": "",
+                                    "background": "",
+                                    "campaignName": "",
+                                    "icon": "",
+                                    "__typename": "pdpContentSnapshotThematicCampaign"
+                                },
+                                "stock": {
+                                    "useStock": true,
+                                    "value": "29",
+                                    "stockWording": "",
+                                    "__typename": "pdpContentSnapshotStock"
+                                },
+                                "variant": {
+                                    "isVariant": true,
+                                    "parentID": "13720073612",
+                                    "__typename": "pdpContentSnapshotVariant"
+                                },
+                                "wholesale": [],
+                                "isCashback": {
+                                    "percentage": 0,
+                                    "__typename": "pdpContentSnapshotIsCashback"
+                                },
+                                "isTradeIn": false,
+                                "isOS": true,
+                                "isPowerMerchant": true,
+                                "isWishlist": false,
+                                "isCOD": false,
+                                "preorder": {
+                                    "duration": 0,
+                                    "timeUnit": "UNKNOWN",
+                                    "isActive": false,
+                                    "preorderInDays": 0,
+                                    "__typename": "pdpContentSnapshotPreorder"
+                                },
+                                "__typename": "pdpDataProductContent"
+                            }
+                        ],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "new_variant_options",
+                        "type": "variant",
+                        "position": "[1,2,1,1]",
+                        "data": [
+                            {
+                                "errorCode": 0,
+                                "parentID": "13720073612",
+                                "defaultChild": "13720073614",
+                                "sizeChart": "",
+                                "totalStockFmt": "145",
+                                "variants": [
+                                    {
+                                        "productVariantID": "746154092",
+                                        "variantID": "0",
+                                        "name": "bundling",
+                                        "identifier": "",
+                                        "option": [
+                                            {
+                                                "picture": {
+                                                    "urlOriginal": "",
+                                                    "urlThumbnail": "",
+                                                    "__typename": "pdpProductVariantPicture"
+                                                },
+                                                "productVariantOptionID": "2473418258",
+                                                "variantUnitValueID": "0",
+                                                "value": "NON BUNDLING",
+                                                "hex": "",
+                                                "stock": "29",
+                                                "__typename": "pdpProductVariantOption"
+                                            },
+                                            {
+                                                "picture": {
+                                                    "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/de40673e-ed66-46b2-974d-e85414537d94.png",
+                                                    "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/6/5/de40673e-ed66-46b2-974d-e85414537d94.png",
+                                                    "__typename": "pdpProductVariantPicture"
+                                                },
+                                                "productVariantOptionID": "2473418259",
+                                                "variantUnitValueID": "0",
+                                                "value": "BASIC 1",
+                                                "hex": "",
+                                                "stock": "29",
+                                                "__typename": "pdpProductVariantOption"
+                                            },
+                                            {
+                                                "picture": {
+                                                    "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/d14f36c7-f8b8-4efe-b1f5-c690577465e4.png",
+                                                    "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/6/5/d14f36c7-f8b8-4efe-b1f5-c690577465e4.png",
+                                                    "__typename": "pdpProductVariantPicture"
+                                                },
+                                                "productVariantOptionID": "2473418260",
+                                                "variantUnitValueID": "0",
+                                                "value": "BASIC 2",
+                                                "hex": "",
+                                                "stock": "29",
+                                                "__typename": "pdpProductVariantOption"
+                                            },
+                                            {
+                                                "picture": {
+                                                    "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/b994ed5e-5b3b-47f0-8f51-b8defe27d47f.png",
+                                                    "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/6/5/b994ed5e-5b3b-47f0-8f51-b8defe27d47f.png",
+                                                    "__typename": "pdpProductVariantPicture"
+                                                },
+                                                "productVariantOptionID": "2473418261",
+                                                "variantUnitValueID": "0",
+                                                "value": "BASIC 3",
+                                                "hex": "",
+                                                "stock": "29",
+                                                "__typename": "pdpProductVariantOption"
+                                            },
+                                            {
+                                                "picture": {
+                                                    "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/df1d770a-a1a9-4ece-af75-992fe5425be4.jpg",
+                                                    "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/6/5/df1d770a-a1a9-4ece-af75-992fe5425be4.jpg",
+                                                    "__typename": "pdpProductVariantPicture"
+                                                },
+                                                "productVariantOptionID": "2473418262",
+                                                "variantUnitValueID": "0",
+                                                "value": "+W11 PRO",
+                                                "hex": "",
+                                                "stock": "29",
+                                                "__typename": "pdpProductVariantOption"
+                                            }
+                                        ],
+                                        "__typename": "pdpProductVariantOutput"
+                                    }
+                                ],
+                                "children": [
+                                    {
+                                        "productID": "13720073614",
+                                        "price": 27299000,
+                                        "priceFmt": "Rp27.299.000",
+                                        "slashPriceFmt": "Rp30.999.000",
+                                        "discPercentage": "12%",
+                                        "optionID": [
+                                            2473418258
+                                        ],
+                                        "optionName": [
+                                            "NON BUNDLING"
+                                        ],
+                                        "productName": "Lenovo Yoga 9 2IN1 Ultra 7-155H 32GB 1TB SSD Intel Arc 14.0\" 4K OLED W11 OHS - NON BUNDLING",
+                                        "productURL": "https://www.tokopedia.com/gateway/lenovo-yoga-9-2in1-ultra-7-155h-32gb-1tb-ssd-intel-arc-14-0-4k-oled-w11-ohs-non-bundling-912b0",
+                                        "picture": {
+                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/10/8acae9e3-c934-46f2-ba2d-05546af72096.jpg",
+                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/6/10/8acae9e3-c934-46f2-ba2d-05546af72096.jpg",
+                                            "__typename": "pdpProductVariantPicture"
+                                        },
+                                        "stock": {
+                                            "stock": "29",
+                                            "isBuyable": true,
+                                            "stockWordingHTML": "",
+                                            "minimumOrder": "1",
+                                            "maximumOrder": "10",
+                                            "__typename": "pdpProductVariantStock"
+                                        },
+                                        "isCOD": false,
+                                        "isWishlist": false,
+                                        "campaignInfo": {
+                                            "campaignID": "-10000",
+                                            "campaignType": "0",
+                                            "campaignTypeName": "Diskon Terbatas",
+                                            "campaignIdentifier": 2,
+                                            "background": "#D74049,#F56958",
+                                            "discountPercentage": 12,
+                                            "originalPrice": 30999000,
+                                            "discountPrice": 27299000,
+                                            "stock": 29,
+                                            "stockSoldPercentage": 0,
+                                            "startDate": "2024-06-05 13:01:33",
+                                            "endDate": "2025-06-05 13:01:00",
+                                            "endDateUnix": "1749103260",
+                                            "appLinks": "",
+                                            "isAppsOnly": false,
+                                            "isActive": true,
+                                            "hideGimmick": false,
+                                            "isCheckImei": false,
+                                            "minOrder": 1,
+                                            "__typename": "pdpProductVariantCampaign"
+                                        },
+                                        "thematicCampaign": {
+                                            "additionalInfo": "",
+                                            "background": "",
+                                            "campaignName": "",
+                                            "icon": "",
+                                            "__typename": "pdpContentSnapshotThematicCampaign"
+                                        },
+                                        "__typename": "pdpProductVariantChildren"
+                                    },
+                                    {
+                                        "productID": "13720073615",
+                                        "price": 27499000,
+                                        "priceFmt": "Rp27.499.000",
+                                        "slashPriceFmt": "Rp30.999.000",
+                                        "discPercentage": "11%",
+                                        "optionID": [
+                                            2473418259
+                                        ],
+                                        "optionName": [
+                                            "BASIC 1"
+                                        ],
+                                        "productName": "Lenovo Yoga 9 2IN1 Ultra 7-155H 32GB 1TB SSD Intel Arc 14.0\" 4K OLED W11 OHS - BASIC 1",
+                                        "productURL": "https://www.tokopedia.com/gateway/lenovo-yoga-9-2in1-ultra-7-155h-32gb-1tb-ssd-intel-arc-14-0-4k-oled-w11-ohs-basic-1-2b1e7",
+                                        "picture": {
+                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/de40673e-ed66-46b2-974d-e85414537d94.png",
+                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/6/5/de40673e-ed66-46b2-974d-e85414537d94.png",
+                                            "__typename": "pdpProductVariantPicture"
+                                        },
+                                        "stock": {
+                                            "stock": "29",
+                                            "isBuyable": true,
+                                            "stockWordingHTML": "",
+                                            "minimumOrder": "1",
+                                            "maximumOrder": "10",
+                                            "__typename": "pdpProductVariantStock"
+                                        },
+                                        "isCOD": false,
+                                        "isWishlist": false,
+                                        "campaignInfo": {
+                                            "campaignID": "-10000",
+                                            "campaignType": "0",
+                                            "campaignTypeName": "Diskon Terbatas",
+                                            "campaignIdentifier": 2,
+                                            "background": "#D74049,#F56958",
+                                            "discountPercentage": 11,
+                                            "originalPrice": 30999000,
+                                            "discountPrice": 27499000,
+                                            "stock": 29,
+                                            "stockSoldPercentage": 0,
+                                            "startDate": "2024-06-05 13:01:33",
+                                            "endDate": "2025-06-05 13:01:00",
+                                            "endDateUnix": "1749103260",
+                                            "appLinks": "",
+                                            "isAppsOnly": false,
+                                            "isActive": true,
+                                            "hideGimmick": false,
+                                            "isCheckImei": false,
+                                            "minOrder": 1,
+                                            "__typename": "pdpProductVariantCampaign"
+                                        },
+                                        "thematicCampaign": {
+                                            "additionalInfo": "",
+                                            "background": "",
+                                            "campaignName": "",
+                                            "icon": "",
+                                            "__typename": "pdpContentSnapshotThematicCampaign"
+                                        },
+                                        "__typename": "pdpProductVariantChildren"
+                                    },
+                                    {
+                                        "productID": "13720073616",
+                                        "price": 27499000,
+                                        "priceFmt": "Rp27.499.000",
+                                        "slashPriceFmt": "Rp30.999.000",
+                                        "discPercentage": "11%",
+                                        "optionID": [
+                                            2473418260
+                                        ],
+                                        "optionName": [
+                                            "BASIC 2"
+                                        ],
+                                        "productName": "Lenovo Yoga 9 2IN1 Ultra 7-155H 32GB 1TB SSD Intel Arc 14.0\" 4K OLED W11 OHS - BASIC 2",
+                                        "productURL": "https://www.tokopedia.com/gateway/lenovo-yoga-9-2in1-ultra-7-155h-32gb-1tb-ssd-intel-arc-14-0-4k-oled-w11-ohs-basic-2-4b748",
+                                        "picture": {
+                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/d14f36c7-f8b8-4efe-b1f5-c690577465e4.png",
+                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/6/5/d14f36c7-f8b8-4efe-b1f5-c690577465e4.png",
+                                            "__typename": "pdpProductVariantPicture"
+                                        },
+                                        "stock": {
+                                            "stock": "29",
+                                            "isBuyable": true,
+                                            "stockWordingHTML": "",
+                                            "minimumOrder": "1",
+                                            "maximumOrder": "10",
+                                            "__typename": "pdpProductVariantStock"
+                                        },
+                                        "isCOD": false,
+                                        "isWishlist": false,
+                                        "campaignInfo": {
+                                            "campaignID": "-10000",
+                                            "campaignType": "0",
+                                            "campaignTypeName": "Diskon Terbatas",
+                                            "campaignIdentifier": 2,
+                                            "background": "#D74049,#F56958",
+                                            "discountPercentage": 11,
+                                            "originalPrice": 30999000,
+                                            "discountPrice": 27499000,
+                                            "stock": 29,
+                                            "stockSoldPercentage": 0,
+                                            "startDate": "2024-06-05 13:01:33",
+                                            "endDate": "2025-06-05 13:01:00",
+                                            "endDateUnix": "1749103260",
+                                            "appLinks": "",
+                                            "isAppsOnly": false,
+                                            "isActive": true,
+                                            "hideGimmick": false,
+                                            "isCheckImei": false,
+                                            "minOrder": 1,
+                                            "__typename": "pdpProductVariantCampaign"
+                                        },
+                                        "thematicCampaign": {
+                                            "additionalInfo": "",
+                                            "background": "",
+                                            "campaignName": "",
+                                            "icon": "",
+                                            "__typename": "pdpContentSnapshotThematicCampaign"
+                                        },
+                                        "__typename": "pdpProductVariantChildren"
+                                    },
+                                    {
+                                        "productID": "13720073617",
+                                        "price": 27699000,
+                                        "priceFmt": "Rp27.699.000",
+                                        "slashPriceFmt": "Rp30.999.000",
+                                        "discPercentage": "11%",
+                                        "optionID": [
+                                            2473418261
+                                        ],
+                                        "optionName": [
+                                            "BASIC 3"
+                                        ],
+                                        "productName": "Lenovo Yoga 9 2IN1 Ultra 7-155H 32GB 1TB SSD Intel Arc 14.0\" 4K OLED W11 OHS - BASIC 3",
+                                        "productURL": "https://www.tokopedia.com/gateway/lenovo-yoga-9-2in1-ultra-7-155h-32gb-1tb-ssd-intel-arc-14-0-4k-oled-w11-ohs-basic-3-8e9bd",
+                                        "picture": {
+                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/b994ed5e-5b3b-47f0-8f51-b8defe27d47f.png",
+                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/6/5/b994ed5e-5b3b-47f0-8f51-b8defe27d47f.png",
+                                            "__typename": "pdpProductVariantPicture"
+                                        },
+                                        "stock": {
+                                            "stock": "29",
+                                            "isBuyable": true,
+                                            "stockWordingHTML": "",
+                                            "minimumOrder": "1",
+                                            "maximumOrder": "10",
+                                            "__typename": "pdpProductVariantStock"
+                                        },
+                                        "isCOD": false,
+                                        "isWishlist": false,
+                                        "campaignInfo": {
+                                            "campaignID": "-10000",
+                                            "campaignType": "0",
+                                            "campaignTypeName": "Diskon Terbatas",
+                                            "campaignIdentifier": 2,
+                                            "background": "#D74049,#F56958",
+                                            "discountPercentage": 11,
+                                            "originalPrice": 30999000,
+                                            "discountPrice": 27699000,
+                                            "stock": 29,
+                                            "stockSoldPercentage": 0,
+                                            "startDate": "2024-06-05 13:01:33",
+                                            "endDate": "2025-06-05 13:01:00",
+                                            "endDateUnix": "1749103260",
+                                            "appLinks": "",
+                                            "isAppsOnly": false,
+                                            "isActive": true,
+                                            "hideGimmick": false,
+                                            "isCheckImei": false,
+                                            "minOrder": 1,
+                                            "__typename": "pdpProductVariantCampaign"
+                                        },
+                                        "thematicCampaign": {
+                                            "additionalInfo": "",
+                                            "background": "",
+                                            "campaignName": "",
+                                            "icon": "",
+                                            "__typename": "pdpContentSnapshotThematicCampaign"
+                                        },
+                                        "__typename": "pdpProductVariantChildren"
+                                    },
+                                    {
+                                        "productID": "13720073618",
+                                        "price": 27899000,
+                                        "priceFmt": "Rp27.899.000",
+                                        "slashPriceFmt": "Rp30.999.000",
+                                        "discPercentage": "10%",
+                                        "optionID": [
+                                            2473418262
+                                        ],
+                                        "optionName": [
+                                            "+W11 PRO"
+                                        ],
+                                        "productName": "Lenovo Yoga 9 2IN1 Ultra 7-155H 32GB 1TB SSD Intel Arc 14.0\" 4K OLED W11 OHS - +W11 PRO",
+                                        "productURL": "https://www.tokopedia.com/gateway/lenovo-yoga-9-2in1-ultra-7-155h-32gb-1tb-ssd-intel-arc-14-0-4k-oled-w11-ohs-w11-pro-d6b37",
+                                        "picture": {
+                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/5/df1d770a-a1a9-4ece-af75-992fe5425be4.jpg",
+                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/6/5/df1d770a-a1a9-4ece-af75-992fe5425be4.jpg",
+                                            "__typename": "pdpProductVariantPicture"
+                                        },
+                                        "stock": {
+                                            "stock": "29",
+                                            "isBuyable": true,
+                                            "stockWordingHTML": "",
+                                            "minimumOrder": "1",
+                                            "maximumOrder": "10",
+                                            "__typename": "pdpProductVariantStock"
+                                        },
+                                        "isCOD": false,
+                                        "isWishlist": false,
+                                        "campaignInfo": {
+                                            "campaignID": "-10000",
+                                            "campaignType": "0",
+                                            "campaignTypeName": "Diskon Terbatas",
+                                            "campaignIdentifier": 2,
+                                            "background": "#D74049,#F56958",
+                                            "discountPercentage": 10,
+                                            "originalPrice": 30999000,
+                                            "discountPrice": 27899000,
+                                            "stock": 29,
+                                            "stockSoldPercentage": 0,
+                                            "startDate": "2024-06-05 13:01:33",
+                                            "endDate": "2025-06-05 13:01:00",
+                                            "endDateUnix": "1749103260",
+                                            "appLinks": "",
+                                            "isAppsOnly": false,
+                                            "isActive": true,
+                                            "hideGimmick": false,
+                                            "isCheckImei": false,
+                                            "minOrder": 1,
+                                            "__typename": "pdpProductVariantCampaign"
+                                        },
+                                        "thematicCampaign": {
+                                            "additionalInfo": "",
+                                            "background": "",
+                                            "campaignName": "",
+                                            "icon": "",
+                                            "__typename": "pdpContentSnapshotThematicCampaign"
+                                        },
+                                        "__typename": "pdpProductVariantChildren"
+                                    }
+                                ],
+                                "__typename": "pdpDataProductVariant"
+                            }
+                        ],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "product_detail",
+                        "type": "product_detail",
+                        "position": "[1,3,1,1]",
+                        "data": [
+                            {
+                                "content": [
+                                    {
+                                        "title": "Kondisi",
+                                        "subtitle": "Baru",
+                                        "applink": "",
+                                        "showAtFront": true,
+                                        "isAnnotation": false,
+                                        "__typename": "pdpContentProductDetail"
+                                    },
+                                    {
+                                        "title": "Berat Satuan",
+                                        "subtitle": "4 kg",
+                                        "applink": "",
+                                        "showAtFront": false,
+                                        "isAnnotation": false,
+                                        "__typename": "pdpContentProductDetail"
+                                    },
+                                    {
+                                        "title": "Min. Pemesanan",
+                                        "subtitle": "1 Buah",
+                                        "applink": "",
+                                        "showAtFront": true,
+                                        "isAnnotation": false,
+                                        "__typename": "pdpContentProductDetail"
+                                    },
+                                    {
+                                        "title": "Kategori",
+                                        "subtitle": "Laptop 2 in 1",
+                                        "applink": "https://www.tokopedia.com/p/komputer-laptop/laptop/laptop-2-in-1",
+                                        "showAtFront": false,
+                                        "isAnnotation": false,
+                                        "__typename": "pdpContentProductDetail"
+                                    },
+                                    {
+                                        "title": "Etalase",
+                                        "subtitle": "Semua Etalase",
+                                        "applink": "https://www.tokopedia.com/gateway/etalase/all",
+                                        "showAtFront": true,
+                                        "isAnnotation": false,
+                                        "__typename": "pdpContentProductDetail"
+                                    },
+                                    {
+                                        "title": "Deskripsi",
+                                        "subtitle": "&#34;Selamat Datang di Gateway Indonesia Comp&#34;\nJam Operasional Kami Dari Jan 09.00-18.00 WIB\nKami Juga Menerima Barang Pengadaan Kantor, Pemerintah, PT, CV, Faktur Pajak*\n\n\u2705 Wajib Tanyakan Stock Sebelum Order\n\u2705 Free ongkir up to 30RB\n\u2705 Beli Banyak Mau Nego? Chat Admin!\n\u2705 Bisa Upgrade Spek &amp; Garansi Tetap Aman !\n\u2705 Banyak Bonus dan Promo Menarik\n\u2705 Free Cermati Protect 1 TAHUN\n(Cover Perampokan/Pencurian, Kerusakan Tidak Terduga, Terkena Cairan, Bencana Alam)\n\nJaminan Barang Original\nGaransi Resmi 3 Tahun + ADP\nGaransi Toko Tukar Unit 5 Hari (Jika ada kerusakan pabrik)\n\nKeterangan Paket :\nPaket Basic 1 : Paket Antigores Lengkap (Layar+Body+Cleankit) \nPaket Basic 2 : Paket Antigores Lengkap + Sleevecase Carbon \nPaket Basic 3 : Paket Antigores Lengkap + Mouse Wireless + Sleevecase Carbon + Mousepad\n\nMenerima Untuk Pengadaan dan Reseller\njika ingin install aplikasi dan request warna mohon ditulis di note saat order (wajib)\n======================================================\n83AC004VID\n\nSpesifikasi :\n** Processor : Intel\u00ae Core\u2122 Ultra 7 155H, 16C (6P + 8E + 2LPE) / 22T, Max Turbo up to 4.8GHz, 24MB\n** VGA : Integrated Intel\u00ae Arc\u2122 Graphics\n** Memory : 32GB Soldered LPDDR5x-7467\n** Storage : 1TB SSD M.2 2242 PCIe\u00ae 4.0x4 NVMe\u00ae\n** Display : 14&#34; 4K (3840x2400) OLED 400nits Glossy / Anti-fingerprint, 100% DCI-P3, 60Hz, Eyesafe\u00ae, Dolby\u00ae Vision\u2122, DisplayHDR\u2122 500, Glass, Touch\n** OS : Windows\u00ae 11 Home + Office Home &amp; Student 2021\n** Network : Wi-Fi\u00ae 6E, 11ax 2x2 + BT5.3\n\n** Ports :\n1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On\n1x USB-C\u00ae (USB 10Gbps / USB 3.2 Gen 2), with USB PD 3.0 and DisplayPort\u2122 1.4\n2x USB-C\u00ae (Thunderbolt\u2122 4 / USB4\u00ae 40Gbps), with USB PD 3.0 and DisplayPort\u2122 1.4\n1x Headphone / microphone combo jack (3.5mm)\n\n** Keyboard : Backlit, English\n** Speakers : 4 stereo speakers, 2W x2 (woofers on the side), 2W x2 (front-facing tweeters on hinge bar), optimized with Dolby\u00ae Atmos\u00ae, Smart Amplifier (AMP), audio by Bowers &amp; Wilkins\n** Camera : 5.0MP + IR with Privacy Shutter\n** Battery : Integrated 75Wh\n** Adapter : 65W USB-C\u00ae (3-pin)",
+                                        "applink": "",
+                                        "showAtFront": true,
+                                        "isAnnotation": false,
+                                        "__typename": "pdpContentProductDetail"
+                                    },
+                                    {
+                                        "title": "Fungsionalitas",
+                                        "subtitle": "Kerja",
+                                        "applink": "",
+                                        "showAtFront": false,
+                                        "isAnnotation": true,
+                                        "__typename": "pdpContentProductDetail"
+                                    },
+                                    {
+                                        "title": "Kapasitas RAM",
+                                        "subtitle": "32 GB",
+                                        "applink": "",
+                                        "showAtFront": false,
+                                        "isAnnotation": true,
+                                        "__typename": "pdpContentProductDetail"
+                                    },
+                                    {
+                                        "title": "Tahun Rilis",
+                                        "subtitle": "2024",
+                                        "applink": "",
+                                        "showAtFront": false,
+                                        "isAnnotation": true,
+                                        "__typename": "pdpContentProductDetail"
+                                    },
+                                    {
+                                        "title": "Tipe Garansi",
+                                        "subtitle": "Garansi Merek (Resmi)",
+                                        "applink": "",
+                                        "showAtFront": false,
+                                        "isAnnotation": true,
+                                        "__typename": "pdpContentProductDetail"
+                                    },
+                                    {
+                                        "title": "Tipe Processor",
+                                        "subtitle": "intel",
+                                        "applink": "",
+                                        "showAtFront": false,
+                                        "isAnnotation": true,
+                                        "__typename": "pdpContentProductDetail"
+                                    }
+                                ],
+                                "__typename": "pdpDataProductDetail"
+                            }
+                        ],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "obat_keras",
+                        "type": "custom_info",
+                        "position": "[1,4,1,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "shop_credibility",
+                        "type": "shop_credibility",
+                        "position": "[1,6,1,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "shipment",
+                        "type": "shipment",
+                        "position": "[1,7,1,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "shipping",
+                        "type": "info",
+                        "position": "[1,8,1,1]",
+                        "data": [
+                            {
+                                "icon": "",
+                                "title": "Kurir",
+                                "isApplink": true,
+                                "applink": "",
+                                "content": [],
+                                "__typename": "pdpDataInfo"
+                            }
+                        ],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "offerings",
+                        "type": "offerings",
+                        "position": "[1,9,1,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "installment_paylater",
+                        "type": "info",
+                        "position": "[1,10,1,1]",
+                        "data": [
+                            {
+                                "icon": "https://images.tokopedia.net/pdp/info/icon/pdp-paylatercicilan@3x.png",
+                                "title": "Paylater & Cicilan",
+                                "isApplink": true,
+                                "applink": "tokopedia://fintech/paylater?category=Laptop+2+in+1&price=27299000.000000&productID=13720073614&productURL=https%3A%2F%2Fwww.tokopedia.com%2Fgateway%2Flenovo-yoga-9-2in1-ultra-7-155h-32gb-1tb-ssd-intel-arc-14-0-4k-oled-w11-ohs-non-bundling-912b0",
+                                "content": [],
+                                "__typename": "pdpDataInfo"
+                            }
+                        ],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "QRCode",
+                        "type": "Web2App",
+                        "position": "[1,11,1,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "wholesale",
+                        "type": "info",
+                        "position": "[1,12,1,1]",
+                        "data": [
+                            {
+                                "icon": "",
+                                "title": "Harga Grosir",
+                                "isApplink": true,
+                                "applink": "",
+                                "content": [],
+                                "__typename": "pdpDataInfo"
+                            }
+                        ],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "protection",
+                        "type": "info",
+                        "position": "[1,13,1,1]",
+                        "data": [
+                            {
+                                "icon": "https://images.tokopedia.net/pdp/info/icon/pdp-protection@3x.png",
+                                "title": "Proteksi Gadget",
+                                "isApplink": false,
+                                "applink": "",
+                                "content": [],
+                                "__typename": "pdpDataInfo"
+                            }
+                        ],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "report",
+                        "type": "report",
+                        "position": "[1,14,1,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "product_detail_media",
+                        "type": "product_detail_media",
+                        "position": "[0,15,2,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "review",
+                        "type": "review",
+                        "position": "[0,16,2,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "tdn_topads",
+                        "type": "banner_ads",
+                        "position": "[0,17,2,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "discussion_faq",
+                        "type": "discussion_faq",
+                        "position": "[0,18,2,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "pdp_1",
+                        "type": "product_list",
+                        "position": "[0,19,3,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "pdp_2",
+                        "type": "product_list",
+                        "position": "[0,20,3,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "pdp_3",
+                        "type": "product_list",
+                        "position": "[0,21,3,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    },
+                    {
+                        "name": "pdp_4",
+                        "type": "product_list",
+                        "position": "[0,22,3,1]",
+                        "data": [],
+                        "__typename": "pdpComponent"
+                    }
+                ],
+                "__typename": "pdpLayout"
+            }
+        }
+    }
+]

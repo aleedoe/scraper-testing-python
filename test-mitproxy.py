@@ -32,6 +32,8 @@ def fetchingProducts(wait, driver):
                     
                     driver.execute_script("arguments[0].scrollIntoView(true);", product)
                     wait.until(EC.element_to_be_clickable(product)).click()
+                    current_url = driver.current_url
+                    print(f"URL produk ke-{index + 1}: {current_url}")
                     
                     title = wait.until(EC.visibility_of_element_located((By.XPATH, '//*[@id="pdp_comp-product_content"]/div/div[1]/h1')))
                     price = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, 'div[data-testid="lblPDPDetailProductPrice"]')))

@@ -1,4 +1,4 @@
-from selenium import webdriver
+from seleniumwire import webdriver  # Ganti import selenium biasa dengan selenium-wire
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
@@ -6,7 +6,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-
 
 def fetchingProducts(wait, driver):
     page = 1
@@ -36,6 +35,25 @@ def fetchingProducts(wait, driver):
                     title = wait.until(EC.visibility_of_element_located((By.XPATH, '//*[@id="pdp_comp-product_content"]/div/div[1]/h1')))
                     print(f"nama ke-{index + 1}: {title.text}")
                     
+                    # tambahkan dibagian sini
+                    current_url = driver.current_url
+                    print(f"URL produk ke-{index + 1}: {current_url}")
+
+                    # # Ambil respons produk
+                    # for request in driver.requests:
+                    #     if request.response and request.url == current_url:
+                    #         response_content = request.response.body.decode('utf-8', errors='replace')
+                    #         print(f"Response produk ke-{index + 1}: {response_content}\n")
+                    #         break
+                    # Access requests via the `requests` attribute
+                    for request in driver.requests:
+                        if request.response:
+                            print(
+                                request.url,
+                                request.response.status_code,
+                                request.response.headers['Content-Type']
+                            )
+
                     driver.back()
                     
                     if index == len(products) - 1:
@@ -50,8 +68,6 @@ def fetchingProducts(wait, driver):
             print(e)
             print("===== ambil produk selesai =======")
             return False
-
-
 
 def startScraping(chrome_driver_path, keyword_search):
     chrome_options = Options()
@@ -85,7 +101,6 @@ def startScraping(chrome_driver_path, keyword_search):
         fetchingProducts(wait, driver)
     finally:
         driver.quit()
-
 
 chrome_driver_path = "D:\\Programs\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe"
 keyword_search = "Gateway Indonesia Comp"

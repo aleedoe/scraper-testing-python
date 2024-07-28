@@ -10,7 +10,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
     'content-type': 'application/json',
     'accept': '*/*',
-    'Referer': 'https://www.tokopedia.com/gateway/axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-non-bundling-dos-non-os-691a4?extParam=src%3Dshop%26whid%3D112155',
+    'Referer': 'https://www.tokopedia.com/gateway/msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-non-bundle-4d23f?extParam=src%3Dshop%26whid%3D112155',
     'X-Source': 'tokopedia-lite',
     'x-device': 'desktop',
     'X-Tkpd-Lite-Service': 'zeus',
@@ -22,7 +22,7 @@ data = [
         "operationName": "PDPGetLayoutQuery",
         "variables": {
             "shopDomain": "gateway",
-            "productKey": "axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-non-bundling-dos-non-os-691a4",
+            "productKey": "msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-non-bundle-4d23f",
             "layoutID": "",
             "apiVersion": 1,
             "tokonow": {

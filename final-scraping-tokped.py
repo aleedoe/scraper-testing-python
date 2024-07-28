@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 from urllib.parse import urlparse
+from fetch_api_detail_product import fetchApiDetailProduct
 
 def extract_product_path(url):
     # Parsing URL
@@ -53,6 +54,8 @@ def fetchingProducts(wait, driver):
                     url_to_api = extract_product_path(current_url)
                     print(f"API fetching URL produk ke-{index + 1}: {url_to_api}")
                     print("")
+                    
+                    fetchApiDetailProduct(str(current_url), str(url_to_api))
 
                     
                     driver.back()

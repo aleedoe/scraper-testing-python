@@ -1,7 +1,7 @@
 import requests
 import json
 
-def fetchApiDetailProduct(referer, product_key):
+def fetchApiDetailProduct(referer, shop_domain, product_key):
 
     url = 'https://gql.tokopedia.com/graphql/PDPGetLayoutQuery'
     headers = {
@@ -23,7 +23,7 @@ def fetchApiDetailProduct(referer, product_key):
         {
             "operationName": "PDPGetLayoutQuery",
             "variables": {
-                "shopDomain": "gateway",
+                "shopDomain": shop_domain,
                 "productKey": product_key,
                 "layoutID": "",
                 "apiVersion": 1,

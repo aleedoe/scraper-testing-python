@@ -9,17 +9,25 @@ import time
 from urllib.parse import urlparse
 from fetch_api_detail_product import fetchApiDetailProduct
 
-def extract_product_path(url):
+def extractUrlToApi(url):
     # Parsing URL
     parsed_url = urlparse(url)
     
     # Mengambil path dan memecahnya berdasarkan '/'
     path_parts = parsed_url.path.split('/')
     
-    # Bagian terakhir dari path
-    product_part = path_parts[-1]
+    # Mendapatkan shop_domain dan product_key
+    if len(path_parts) > 2:
+        shop_domain = path_parts[1]
+        product_key = path_parts[2]
+    else:
+        shop_domain = ''
+        product_key = ''
     
-    return product_part
+    return {
+        'shop_domain': shop_domain,
+        'product_key': product_key
+    }
 
 def fetchingProducts(wait, driver):
     page = 1
@@ -47,15 +55,18 @@ def fetchingProducts(wait, driver):
                     wait.until(EC.element_to_be_clickable(product)).click()
                     
                     title = wait.until(EC.visibility_of_element_located((By.XPATH, '//*[@id="pdp_comp-product_content"]/div/div[1]/h1')))
+
+                    referer = driver.current_url
+                    shop_domain = extractUrlToApi(referer)['shop_domain']
+                    product_key = extractUrlToApi(referer)['product_key']
+                    
+                    fetchApiDetailProduct(str(referer), str(shop_domain), str(product_key))
+
                     print("")
                     print(f"nama ke-{index + 1}: {title.text}")
-                    current_url = driver.current_url
-                    print(f"URL produk ke-{index + 1}: {current_url}")
-                    url_to_api = extract_product_path(current_url)
-                    print(f"API fetching URL produk ke-{index + 1}: {url_to_api}")
+                    print(f"URL produk ke-{index + 1}: {referer}")
                     print("")
                     
-                    fetchApiDetailProduct(str(current_url), str(url_to_api))
 
                     
                     driver.back()
@@ -110,6 +121,6 @@ def startScraping(chrome_driver_path, keyword_search):
 
 
 chrome_driver_path = "D:\\Programs\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe"
-keyword_search = "Gateway Indonesia Comp"
+keyword_search = "Lenovo Official"
 
 startScraping(chrome_driver_path, keyword_search)

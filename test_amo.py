@@ -10,7 +10,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
     'content-type': 'application/json',
     'accept': '*/*',
-    'Referer': 'https://www.tokopedia.com/gateway/msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-non-bundle-4d23f?extParam=src%3Dshop%26whid%3D112155',
+    'Referer': 'https://www.tokopedia.com/lenovo-official/lenovo-monitor-legion-r27i-30-27-ips-165hz?source=homepage.top_carousel.0.38456',
     'X-Source': 'tokopedia-lite',
     'x-device': 'desktop',
     'X-Tkpd-Lite-Service': 'zeus',
@@ -21,8 +21,8 @@ data = [
     {
         "operationName": "PDPGetLayoutQuery",
         "variables": {
-            "shopDomain": "gateway",
-            "productKey": "msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-non-bundle-4d23f",
+            "shopDomain": "lenovo-official",
+            "productKey": "lenovo-monitor-legion-r27i-30-27-ips-165hz",
             "layoutID": "",
             "apiVersion": 1,
             "tokonow": {

@@ -2,1210 +2,39 @@
     {
         "data": {
             "pdpGetLayout": {
-                "requestID": "cqiqid36p33gfuv8ne40",
+                "requestID": "cqjct236p33gfktnk8b0",
                 "name": "Default Layout Desktop",
-                "pdpSession": "{\"sid\":263785,\"sd\":\"gateway\",\"cat\":{\"id\":3982,\"d\":[{\"name\":\"Komputer \\u0026 Laptop\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop\",\"id\":297,\"is_adult\":false},{\"name\":\"Laptop\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop/laptop\",\"id\":3844,\"is_adult\":false},{\"name\":\"Laptop Consumer\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop/laptop/laptop-consumer\",\"id\":3982,\"is_adult\":false}]},\"pid\":14585219995,\"ppn\":\"Axioo Hype 5 AMD X3 Ryzen 5-3500 8GB 256GB W11 14\\\" FHD IPS\",\"dcid\":14585220000,\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"opr\":6999000,\"pr\":4699000,\"mo\":1,\"pn\":\"Axioo Hype 5 AMD X3 Ryzen 5-3500 8GB 256GB W11 14\\\" FHD IPS - NON BUNDLING, DOS (NON OS)\",\"purl\":\"https://www.tokopedia.com/gateway/axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-non-bundling-dos-non-os-691a4\",\"pa\":\"axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-non-bundling-dos-non-os-691a4\",\"st\":999,\"cn\":\"new\",\"ctid\":190607,\"li\":1,\"ln\":\"Default Layout Desktop\",\"w\":3,\"sf\":{},\"nid\":3,\"ws\":{},\"stat\":{},\"fst\":[{\"FSID\":14784,\"PartnerName\":\"Genie1\",\"FSType\":0,\"ShopID\":263785}],\"mnwhs\":{\"14585219995\":{\"pid\":14585219995,\"wid\":112155,\"pr\":6999000},\"14585219998\":{\"pid\":14585219998,\"wid\":112155,\"pr\":5099000,\"s\":999},\"14585219999\":{\"pid\":14585219999,\"wid\":112155,\"pr\":5399000,\"s\":999},\"14585220000\":{\"pid\":14585220000,\"wid\":112155,\"pr\":4699000,\"s\":999},\"14585220001\":{\"pid\":14585220001,\"wid\":112155,\"pr\":4999000,\"s\":999},\"14585220002\":{\"pid\":14585220002,\"wid\":112155,\"pr\":4899000,\"s\":999},\"14585220003\":{\"pid\":14585220003,\"wid\":112155,\"pr\":5199000,\"s\":999},\"14585220004\":{\"pid\":14585220004,\"wid\":112155,\"pr\":4899000,\"s\":999},\"14585220005\":{\"pid\":14585220005,\"wid\":112155,\"pr\":5199000,\"s\":999}},\"umps\":3,\"nv\":{\"id\":0,\"n\":\"\",\"c\":[]},\"cr\":{\"error_reporter\":null,\"status\":\"\",\"data\":null,\"alternate_copy\":null},\"exp\":{\"saatc\":true},\"patcs\":{\"lid\":21,\"pi\":14585220000,\"pid\":14585219995,\"whid\":112155,\"pr\":4699000,\"opr\":6999000,\"cat\":{\"id\":3982},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}},\"v\":1,\"vd\":{\"14585219998\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":999,\"ib\":true,\"p\":5099000,\"op\":6999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14585219998,\"pid\":14585219995,\"whid\":112155,\"pr\":5099000,\"opr\":6999000,\"cat\":{\"id\":3982},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"14585219999\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":999,\"ib\":true,\"p\":5399000,\"op\":6999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14585219999,\"pid\":14585219995,\"whid\":112155,\"pr\":5399000,\"opr\":6999000,\"cat\":{\"id\":3982},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"14585220000\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":999,\"ib\":true,\"p\":4699000,\"op\":6999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14585220000,\"pid\":14585219995,\"whid\":112155,\"pr\":4699000,\"opr\":6999000,\"cat\":{\"id\":3982},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"14585220001\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":999,\"ib\":true,\"p\":4999000,\"op\":6999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14585220001,\"pid\":14585219995,\"whid\":112155,\"pr\":4999000,\"opr\":6999000,\"cat\":{\"id\":3982},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"14585220002\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":999,\"ib\":true,\"p\":4899000,\"op\":6999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14585220002,\"pid\":14585219995,\"whid\":112155,\"pr\":4899000,\"opr\":6999000,\"cat\":{\"id\":3982},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"14585220003\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":999,\"ib\":true,\"p\":5199000,\"op\":6999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14585220003,\"pid\":14585219995,\"whid\":112155,\"pr\":5199000,\"opr\":6999000,\"cat\":{\"id\":3982},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"14585220004\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":999,\"ib\":true,\"p\":4899000,\"op\":6999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14585220004,\"pid\":14585219995,\"whid\":112155,\"pr\":4899000,\"opr\":6999000,\"cat\":{\"id\":3982},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"14585220005\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":999,\"ib\":true,\"p\":5199000,\"op\":6999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14585220005,\"pid\":14585219995,\"whid\":112155,\"pr\":5199000,\"opr\":6999000,\"cat\":{\"id\":3982},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}}},\"pi\":14585220000,\"pse\":1,\"ps\":\"ACTIVE\",\"src\":\"shop\",\"fc\":[\"tidak_kadaluwarsa\"],\"cui\":{},\"srq\":{\"rs\":4.9,\"tr\":7272,\"trt\":15321},\"prtg\":{\"rs\":\"0.0\",\"trf\":\"0\",\"trtif\":\"0\"},\"ispt\":true,\"p2c\":{},\"os\":true,\"swa\":true,\"etm\":true,\"ma\":[{\"t\":\"Fungsionalitas\",\"v\":[\"Sekolah\"]},{\"t\":\"Merek\",\"v\":[\"Axioo\"]},{\"t\":\"Tahun Rilis\",\"v\":[\"2024\"]},{\"t\":\"Tipe Garansi\",\"v\":[\"Garansi Merek (Resmi)\"]},{\"t\":\"Tipe Processor\",\"v\":[\"amd\"]}],\"zid\":5}",
+                "pdpSession": "{\"sid\":2411241,\"sd\":\"lenovo-official\",\"cat\":{\"id\":3958,\"d\":[{\"name\":\"Komputer \\u0026 Laptop\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop\",\"id\":297,\"is_adult\":false},{\"name\":\"Monitor\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop/monitor\",\"id\":3841,\"is_adult\":false},{\"name\":\"Monitor LED\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop/monitor/monitor-led\",\"id\":3958,\"is_adult\":false}]},\"ppn\":\"Lenovo Monitor Legion R27i-30 27\\\" IPS 165Hz\",\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"opr\":3099000,\"pr\":2689000,\"whid\":4521,\"mo\":1,\"pn\":\"Lenovo Monitor Legion R27i-30 27\\\" IPS 165Hz\",\"purl\":\"https://www.tokopedia.com/lenovo-official/lenovo-monitor-legion-r27i-30-27-ips-165hz\",\"pa\":\"lenovo-monitor-legion-r27i-30-27-ips-165hz\",\"st\":20,\"cn\":\"new\",\"li\":1,\"ln\":\"Default Layout Desktop\",\"w\":20,\"sf\":{},\"nid\":3,\"ws\":{},\"stat\":{\"cr\":16,\"ct\":1,\"r\":5,\"cs\":27,\"mcs\":\"27\"},\"fst\":[{\"FSID\":14787,\"PartnerName\":\"Genie4\",\"FSType\":0,\"ShopID\":2411241}],\"rr\":1,\"mnwhs\":{\"12494257446\":{\"pid\":12494257446,\"wid\":4521,\"pr\":2689000,\"s\":20}},\"umps\":3,\"nv\":{\"id\":0,\"n\":\"\",\"c\":[]},\"cr\":{\"error_reporter\":null,\"status\":\"\",\"data\":null,\"alternate_copy\":null},\"exp\":{\"saatc\":true},\"patcs\":{\"lid\":21,\"pi\":12494257446,\"pid\":12494257446,\"whid\":4521,\"pr\":2689000,\"opr\":3099000,\"cat\":{\"id\":3958},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}},\"v\":1,\"pi\":12494257446,\"pse\":1,\"ps\":\"ACTIVE\",\"src\":\"shop\",\"fc\":[\"new_variant_options\",\"tidak_kadaluwarsa\"],\"cui\":{},\"srq\":{\"rs\":5,\"tr\":13246,\"trt\":32961},\"prtg\":{\"rs\":\"5.0\",\"tr\":16,\"trf\":\"16\",\"trti\":8,\"trtif\":\"8\",\"tm\":8},\"wc\":234,\"ispt\":true,\"p2c\":{},\"os\":true,\"swa\":true,\"etm\":true,\"ma\":[{\"t\":\"Tahun Rilis\",\"v\":[\"2024\"]},{\"t\":\"Tipe Garansi\",\"v\":[\"Garansi Merek (Resmi)\"]}],\"zid\":4}",
                 "basicInfo": {
-                    "alias": "axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-non-bundling-dos-non-os-691a4",
-                    "createdAt": "2024-07-27T19:18:02+07:00",
+                    "alias": "lenovo-monitor-legion-r27i-30-27-ips-165hz",
+                    "createdAt": "2024-01-09T18:42:25+07:00",
                     "isQA": false,
-                    "id": "14585220000",
-                    "shopID": "263785",
-                    "shopName": "Gateway Indonesia Comp",
+                    "id": "12494257446",
+                    "shopID": "2411241",
+                    "shopName": "Lenovo Official",
                     "minOrder": 1,
                     "maxOrder": 10,
-                    "weight": 3000,
+                    "weight": 20000,
                     "weightUnit": "GRAM",
                     "condition": "NEW",
                     "status": "ACTIVE",
-                    "url": "https://www.tokopedia.com/gateway/axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-non-bundling-dos-non-os-691a4",
-                    "needPrescription": false,
-                    "catalogID": "190607",
-                    "isLeasing": false,
-                    "isBlacklisted": false,
-                    "isTokoNow": false,
-                    "menu": {
-                        "id": "28677886",
-                        "name": "AXIOO",
-                        "url": "https://www.tokopedia.com/gateway/etalase/axioo",
-                        "__typename": "pdpMenu"
-                    },
-                    "category": {
-                        "id": "3982",
-                        "name": "Laptop Consumer",
-                        "title": "Laptop Consumer",
-                        "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/laptop/laptop-consumer",
-                        "isAdult": false,
-                        "isKyc": false,
-                        "minAge": 0,
-                        "detail": [
-                            {
-                                "id": "297",
-                                "name": "Komputer & Laptop",
-                                "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop",
-                                "isAdult": false,
-                                "__typename": "pdpCategoryDetail"
-                            },
-                            {
-                                "id": "3844",
-                                "name": "Laptop",
-                                "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/laptop",
-                                "isAdult": false,
-                                "__typename": "pdpCategoryDetail"
-                            },
-                            {
-                                "id": "3982",
-                                "name": "Laptop Consumer",
-                                "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/laptop/laptop-consumer",
-                                "isAdult": false,
-                                "__typename": "pdpCategoryDetail"
-                            }
-                        ],
-                        "__typename": "pdpCategory"
-                    },
-                    "txStats": {
-                        "transactionSuccess": "0",
-                        "transactionReject": "0",
-                        "countSold": "0",
-                        "paymentVerified": "0",
-                        "itemSoldFmt": "",
-                        "__typename": "pdpTxStats"
-                    },
-                    "stats": {
-                        "countView": "0",
-                        "countReview": "0",
-                        "countTalk": "0",
-                        "rating": 0,
-                        "__typename": "pdpStats"
-                    },
-                    "__typename": "pdpBasicInfo"
-                },
-                "components": [
-                    {
-                        "name": "product_media",
-                        "type": "product_media",
-                        "position": "[0,0,1,4]",
-                        "data": [
-                            {
-                                "media": [
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/3df51835-3598-4364-9244-1304f00be1d1.jpg",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/7/27/3df51835-3598-4364-9244-1304f00be1d1.jpg",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/3df51835-3598-4364-9244-1304f00be1d1.jpg",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/3df51835-3598-4364-9244-1304f00be1d1.jpg",
-                                        "description": "",
-                                        "variantOptionID": "0",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    },
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/251049fa-f871-4dd1-8893-38eb23ba45a6.jpg",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/7/27/251049fa-f871-4dd1-8893-38eb23ba45a6.jpg",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/251049fa-f871-4dd1-8893-38eb23ba45a6.jpg",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/251049fa-f871-4dd1-8893-38eb23ba45a6.jpg",
-                                        "description": "",
-                                        "variantOptionID": "0",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    },
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/1b5b5658-8d15-41b2-8850-5211a8ebf521.jpg",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/7/27/1b5b5658-8d15-41b2-8850-5211a8ebf521.jpg",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/1b5b5658-8d15-41b2-8850-5211a8ebf521.jpg",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/1b5b5658-8d15-41b2-8850-5211a8ebf521.jpg",
-                                        "description": "",
-                                        "variantOptionID": "0",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    },
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/84c606d0-d068-42f9-a330-41f43cac5757.jpg",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/7/27/84c606d0-d068-42f9-a330-41f43cac5757.jpg",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/84c606d0-d068-42f9-a330-41f43cac5757.jpg",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/84c606d0-d068-42f9-a330-41f43cac5757.jpg",
-                                        "description": "",
-                                        "variantOptionID": "0",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    },
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/b3de6909-7da7-4f0a-91db-04f5e953571b.jpg",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/7/27/b3de6909-7da7-4f0a-91db-04f5e953571b.jpg",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/b3de6909-7da7-4f0a-91db-04f5e953571b.jpg",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/b3de6909-7da7-4f0a-91db-04f5e953571b.jpg",
-                                        "description": "",
-                                        "variantOptionID": "0",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    },
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5ba6d007-3dc3-4518-bde2-f7b9c19a8f4b.png",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5ba6d007-3dc3-4518-bde2-f7b9c19a8f4b.png",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5ba6d007-3dc3-4518-bde2-f7b9c19a8f4b.png",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/5ba6d007-3dc3-4518-bde2-f7b9c19a8f4b.png",
-                                        "description": "BASIC 1",
-                                        "variantOptionID": "2810256802",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    },
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/47b038f0-680e-4680-afc8-b89d8ff54d31.png",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/47b038f0-680e-4680-afc8-b89d8ff54d31.png",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/47b038f0-680e-4680-afc8-b89d8ff54d31.png",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/47b038f0-680e-4680-afc8-b89d8ff54d31.png",
-                                        "description": "BASIC 2",
-                                        "variantOptionID": "2810256803",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    },
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/0b3a878d-6a4a-4fb7-b327-7478c6590c26.png",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/0b3a878d-6a4a-4fb7-b327-7478c6590c26.png",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/0b3a878d-6a4a-4fb7-b327-7478c6590c26.png",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/0b3a878d-6a4a-4fb7-b327-7478c6590c26.png",
-                                        "description": "BASIC 3",
-                                        "variantOptionID": "2810256804",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    }
-                                ],
-                                "videos": [],
-                                "__typename": "pdpDataProductMedia"
-                            }
-                        ],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "ticker_info",
-                        "type": "ticker_info",
-                        "position": "[1,0,1,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "variant_options",
-                        "type": "variant",
-                        "position": "[2,0,1,4]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "product_content",
-                        "type": "product_content",
-                        "position": "[1,1,1,1]",
-                        "data": [
-                            {
-                                "name": "Axioo Hype 5 AMD X3 Ryzen 5-3500 8GB 256GB W11 14\" FHD IPS - NON BUNDLING, DOS (NON OS)",
-                                "price": {
-                                    "value": 4699000,
-                                    "currency": "IDR",
-                                    "priceFmt": "Rp4.699.000",
-                                    "slashPriceFmt": "Rp6.999.000",
-                                    "discPercentage": "33%",
-                                    "__typename": "pdpContentSnapshotPrice"
-                                },
-                                "campaign": {
-                                    "campaignID": "-10000",
-                                    "campaignType": "0",
-                                    "campaignTypeName": "Diskon Terbatas",
-                                    "campaignIdentifier": 2,
-                                    "background": "#D74049,#F56958",
-                                    "percentageAmount": 33,
-                                    "originalPrice": 6999000,
-                                    "discountedPrice": 4699000,
-                                    "originalStock": 999,
-                                    "stock": 999,
-                                    "stockSoldPercentage": 0,
-                                    "threshold": 0,
-                                    "startDate": "2024-07-27 12:27:58",
-                                    "endDate": "2025-07-27 12:27:58",
-                                    "endDateUnix": "1753594078",
-                                    "appLinks": "",
-                                    "isAppsOnly": false,
-                                    "isActive": true,
-                                    "hideGimmick": false,
-                                    "__typename": "pdpContentSnapshotCampaign"
-                                },
-                                "thematicCampaign": {
-                                    "additionalInfo": "",
-                                    "background": "",
-                                    "campaignName": "",
-                                    "icon": "",
-                                    "__typename": "pdpContentSnapshotThematicCampaign"
-                                },
-                                "stock": {
-                                    "useStock": true,
-                                    "value": "999",
-                                    "stockWording": "",
-                                    "__typename": "pdpContentSnapshotStock"
-                                },
-                                "variant": {
-                                    "isVariant": true,
-                                    "parentID": "14585219995",
-                                    "__typename": "pdpContentSnapshotVariant"
-                                },
-                                "wholesale": [],
-                                "isCashback": {
-                                    "percentage": 0,
-                                    "__typename": "pdpContentSnapshotIsCashback"
-                                },
-                                "isTradeIn": false,
-                                "isOS": true,
-                                "isPowerMerchant": true,
-                                "isWishlist": false,
-                                "isCOD": false,
-                                "preorder": {
-                                    "duration": 0,
-                                    "timeUnit": "UNKNOWN",
-                                    "isActive": false,
-                                    "preorderInDays": 0,
-                                    "__typename": "pdpContentSnapshotPreorder"
-                                },
-                                "__typename": "pdpDataProductContent"
-                            }
-                        ],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "new_variant_options",
-                        "type": "variant",
-                        "position": "[1,2,1,1]",
-                        "data": [
-                            {
-                                "errorCode": 0,
-                                "parentID": "14585219995",
-                                "defaultChild": "14585220000",
-                                "sizeChart": "",
-                                "totalStockFmt": "7.992",
-                                "variants": [
-                                    {
-                                        "productVariantID": "826179373",
-                                        "variantID": "0",
-                                        "name": "bundling",
-                                        "identifier": "",
-                                        "option": [
-                                            {
-                                                "picture": {
-                                                    "urlOriginal": "",
-                                                    "urlThumbnail": "",
-                                                    "__typename": "pdpProductVariantPicture"
-                                                },
-                                                "productVariantOptionID": "2810256801",
-                                                "variantUnitValueID": "0",
-                                                "value": "NON BUNDLING",
-                                                "hex": "",
-                                                "stock": "1998",
-                                                "__typename": "pdpProductVariantOption"
-                                            },
-                                            {
-                                                "picture": {
-                                                    "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5ba6d007-3dc3-4518-bde2-f7b9c19a8f4b.png",
-                                                    "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/5ba6d007-3dc3-4518-bde2-f7b9c19a8f4b.png",
-                                                    "__typename": "pdpProductVariantPicture"
-                                                },
-                                                "productVariantOptionID": "2810256802",
-                                                "variantUnitValueID": "0",
-                                                "value": "BASIC 1",
-                                                "hex": "",
-                                                "stock": "1998",
-                                                "__typename": "pdpProductVariantOption"
-                                            },
-                                            {
-                                                "picture": {
-                                                    "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/47b038f0-680e-4680-afc8-b89d8ff54d31.png",
-                                                    "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/47b038f0-680e-4680-afc8-b89d8ff54d31.png",
-                                                    "__typename": "pdpProductVariantPicture"
-                                                },
-                                                "productVariantOptionID": "2810256803",
-                                                "variantUnitValueID": "0",
-                                                "value": "BASIC 2",
-                                                "hex": "",
-                                                "stock": "1998",
-                                                "__typename": "pdpProductVariantOption"
-                                            },
-                                            {
-                                                "picture": {
-                                                    "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/0b3a878d-6a4a-4fb7-b327-7478c6590c26.png",
-                                                    "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/0b3a878d-6a4a-4fb7-b327-7478c6590c26.png",
-                                                    "__typename": "pdpProductVariantPicture"
-                                                },
-                                                "productVariantOptionID": "2810256804",
-                                                "variantUnitValueID": "0",
-                                                "value": "BASIC 3",
-                                                "hex": "",
-                                                "stock": "1998",
-                                                "__typename": "pdpProductVariantOption"
-                                            }
-                                        ],
-                                        "__typename": "pdpProductVariantOutput"
-                                    },
-                                    {
-                                        "productVariantID": "826179374",
-                                        "variantID": "0",
-                                        "name": "windows",
-                                        "identifier": "",
-                                        "option": [
-                                            {
-                                                "picture": {
-                                                    "urlOriginal": "",
-                                                    "urlThumbnail": "",
-                                                    "__typename": "pdpProductVariantPicture"
-                                                },
-                                                "productVariantOptionID": "2810256805",
-                                                "variantUnitValueID": "0",
-                                                "value": "DOS (NON OS)",
-                                                "hex": "",
-                                                "stock": "0",
-                                                "__typename": "pdpProductVariantOption"
-                                            },
-                                            {
-                                                "picture": {
-                                                    "urlOriginal": "",
-                                                    "urlThumbnail": "",
-                                                    "__typename": "pdpProductVariantPicture"
-                                                },
-                                                "productVariantOptionID": "2810256806",
-                                                "variantUnitValueID": "0",
-                                                "value": "W11",
-                                                "hex": "",
-                                                "stock": "0",
-                                                "__typename": "pdpProductVariantOption"
-                                            }
-                                        ],
-                                        "__typename": "pdpProductVariantOutput"
-                                    }
-                                ],
-                                "children": [
-                                    {
-                                        "productID": "14585219998",
-                                        "price": 5099000,
-                                        "priceFmt": "Rp5.099.000",
-                                        "slashPriceFmt": "Rp6.999.000",
-                                        "discPercentage": "27%",
-                                        "optionID": [
-                                            2810256804,
-                                            2810256805
-                                        ],
-                                        "optionName": [
-                                            "BASIC 3",
-                                            "DOS (NON OS)"
-                                        ],
-                                        "productName": "Axioo Hype 5 AMD X3 Ryzen 5-3500 8GB 256GB W11 14\" FHD IPS - BASIC 3, DOS (NON OS)",
-                                        "productURL": "https://www.tokopedia.com/gateway/axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-basic-3-dos-non-os-4d7ec",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/0b3a878d-6a4a-4fb7-b327-7478c6590c26.png",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/0b3a878d-6a4a-4fb7-b327-7478c6590c26.png",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "999",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 27,
-                                            "originalPrice": 6999000,
-                                            "discountPrice": 5099000,
-                                            "stock": 999,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 12:27:58",
-                                            "endDate": "2025-07-27 12:27:58",
-                                            "endDateUnix": "1753594078",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    },
-                                    {
-                                        "productID": "14585219999",
-                                        "price": 5399000,
-                                        "priceFmt": "Rp5.399.000",
-                                        "slashPriceFmt": "Rp6.999.000",
-                                        "discPercentage": "23%",
-                                        "optionID": [
-                                            2810256804,
-                                            2810256806
-                                        ],
-                                        "optionName": [
-                                            "BASIC 3",
-                                            "W11"
-                                        ],
-                                        "productName": "Axioo Hype 5 AMD X3 Ryzen 5-3500 8GB 256GB W11 14\" FHD IPS - BASIC 3, W11",
-                                        "productURL": "https://www.tokopedia.com/gateway/axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-basic-3-w11-9c872",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/6c85cd78-2638-46e5-9a6e-456454339c9a.png",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/6c85cd78-2638-46e5-9a6e-456454339c9a.png",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "999",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 23,
-                                            "originalPrice": 6999000,
-                                            "discountPrice": 5399000,
-                                            "stock": 999,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 12:27:58",
-                                            "endDate": "2025-07-27 12:27:58",
-                                            "endDateUnix": "1753594078",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    },
-                                    {
-                                        "productID": "14585220000",
-                                        "price": 4699000,
-                                        "priceFmt": "Rp4.699.000",
-                                        "slashPriceFmt": "Rp6.999.000",
-                                        "discPercentage": "33%",
-                                        "optionID": [
-                                            2810256801,
-                                            2810256805
-                                        ],
-                                        "optionName": [
-                                            "NON BUNDLING",
-                                            "DOS (NON OS)"
-                                        ],
-                                        "productName": "Axioo Hype 5 AMD X3 Ryzen 5-3500 8GB 256GB W11 14\" FHD IPS - NON BUNDLING, DOS (NON OS)",
-                                        "productURL": "https://www.tokopedia.com/gateway/axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-non-bundling-dos-non-os-691a4",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/3df51835-3598-4364-9244-1304f00be1d1.jpg",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/3df51835-3598-4364-9244-1304f00be1d1.jpg",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "999",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 33,
-                                            "originalPrice": 6999000,
-                                            "discountPrice": 4699000,
-                                            "stock": 999,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 12:27:58",
-                                            "endDate": "2025-07-27 12:27:58",
-                                            "endDateUnix": "1753594078",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    },
-                                    {
-                                        "productID": "14585220001",
-                                        "price": 4999000,
-                                        "priceFmt": "Rp4.999.000",
-                                        "slashPriceFmt": "Rp6.999.000",
-                                        "discPercentage": "29%",
-                                        "optionID": [
-                                            2810256801,
-                                            2810256806
-                                        ],
-                                        "optionName": [
-                                            "NON BUNDLING",
-                                            "W11"
-                                        ],
-                                        "productName": "Axioo Hype 5 AMD X3 Ryzen 5-3500 8GB 256GB W11 14\" FHD IPS - NON BUNDLING, W11",
-                                        "productURL": "https://www.tokopedia.com/gateway/axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-non-bundling-w11-e3e02",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/3df51835-3598-4364-9244-1304f00be1d1.jpg",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/3df51835-3598-4364-9244-1304f00be1d1.jpg",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "999",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 29,
-                                            "originalPrice": 6999000,
-                                            "discountPrice": 4999000,
-                                            "stock": 999,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 12:27:58",
-                                            "endDate": "2025-07-27 12:27:58",
-                                            "endDateUnix": "1753594078",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    },
-                                    {
-                                        "productID": "14585220002",
-                                        "price": 4899000,
-                                        "priceFmt": "Rp4.899.000",
-                                        "slashPriceFmt": "Rp6.999.000",
-                                        "discPercentage": "30%",
-                                        "optionID": [
-                                            2810256802,
-                                            2810256805
-                                        ],
-                                        "optionName": [
-                                            "BASIC 1",
-                                            "DOS (NON OS)"
-                                        ],
-                                        "productName": "Axioo Hype 5 AMD X3 Ryzen 5-3500 8GB 256GB W11 14\" FHD IPS - BASIC 1, DOS (NON OS)",
-                                        "productURL": "https://www.tokopedia.com/gateway/axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-basic-1-dos-non-os-c64f4",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5ba6d007-3dc3-4518-bde2-f7b9c19a8f4b.png",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/5ba6d007-3dc3-4518-bde2-f7b9c19a8f4b.png",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "999",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 30,
-                                            "originalPrice": 6999000,
-                                            "discountPrice": 4899000,
-                                            "stock": 999,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 12:27:58",
-                                            "endDate": "2025-07-27 12:27:58",
-                                            "endDateUnix": "1753594078",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    },
-                                    {
-                                        "productID": "14585220003",
-                                        "price": 5199000,
-                                        "priceFmt": "Rp5.199.000",
-                                        "slashPriceFmt": "Rp6.999.000",
-                                        "discPercentage": "26%",
-                                        "optionID": [
-                                            2810256802,
-                                            2810256806
-                                        ],
-                                        "optionName": [
-                                            "BASIC 1",
-                                            "W11"
-                                        ],
-                                        "productName": "Axioo Hype 5 AMD X3 Ryzen 5-3500 8GB 256GB W11 14\" FHD IPS - BASIC 1, W11",
-                                        "productURL": "https://www.tokopedia.com/gateway/axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-basic-1-w11-0b09a",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/a7b03be3-5b6d-485a-bd54-9625dfb21ddb.png",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/a7b03be3-5b6d-485a-bd54-9625dfb21ddb.png",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "999",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 26,
-                                            "originalPrice": 6999000,
-                                            "discountPrice": 5199000,
-                                            "stock": 999,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 12:27:58",
-                                            "endDate": "2025-07-27 12:27:58",
-                                            "endDateUnix": "1753594078",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    },
-                                    {
-                                        "productID": "14585220004",
-                                        "price": 4899000,
-                                        "priceFmt": "Rp4.899.000",
-                                        "slashPriceFmt": "Rp6.999.000",
-                                        "discPercentage": "30%",
-                                        "optionID": [
-                                            2810256803,
-                                            2810256805
-                                        ],
-                                        "optionName": [
-                                            "BASIC 2",
-                                            "DOS (NON OS)"
-                                        ],
-                                        "productName": "Axioo Hype 5 AMD X3 Ryzen 5-3500 8GB 256GB W11 14\" FHD IPS - BASIC 2, DOS (NON OS)",
-                                        "productURL": "https://www.tokopedia.com/gateway/axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-basic-2-dos-non-os-11eb6",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/47b038f0-680e-4680-afc8-b89d8ff54d31.png",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/47b038f0-680e-4680-afc8-b89d8ff54d31.png",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "999",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 30,
-                                            "originalPrice": 6999000,
-                                            "discountPrice": 4899000,
-                                            "stock": 999,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 12:27:58",
-                                            "endDate": "2025-07-27 12:27:58",
-                                            "endDateUnix": "1753594078",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    },
-                                    {
-                                        "productID": "14585220005",
-                                        "price": 5199000,
-                                        "priceFmt": "Rp5.199.000",
-                                        "slashPriceFmt": "Rp6.999.000",
-                                        "discPercentage": "26%",
-                                        "optionID": [
-                                            2810256803,
-                                            2810256806
-                                        ],
-                                        "optionName": [
-                                            "BASIC 2",
-                                            "W11"
-                                        ],
-                                        "productName": "Axioo Hype 5 AMD X3 Ryzen 5-3500 8GB 256GB W11 14\" FHD IPS - BASIC 2, W11",
-                                        "productURL": "https://www.tokopedia.com/gateway/axioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-basic-2-w11-f8b0a",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/2e5909df-1d10-4862-8416-607d81165696.png",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/2e5909df-1d10-4862-8416-607d81165696.png",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "999",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 26,
-                                            "originalPrice": 6999000,
-                                            "discountPrice": 5199000,
-                                            "stock": 999,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 12:27:58",
-                                            "endDate": "2025-07-27 12:27:58",
-                                            "endDateUnix": "1753594078",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    }
-                                ],
-                                "__typename": "pdpDataProductVariant"
-                            }
-                        ],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "product_detail",
-                        "type": "product_detail",
-                        "position": "[1,3,1,1]",
-                        "data": [
-                            {
-                                "content": [
-                                    {
-                                        "title": "Kondisi",
-                                        "subtitle": "Baru",
-                                        "applink": "",
-                                        "showAtFront": true,
-                                        "isAnnotation": false,
-                                        "__typename": "pdpContentProductDetail"
-                                    },
-                                    {
-                                        "title": "Berat Satuan",
-                                        "subtitle": "3 kg",
-                                        "applink": "",
-                                        "showAtFront": false,
-                                        "isAnnotation": false,
-                                        "__typename": "pdpContentProductDetail"
-                                    },
-                                    {
-                                        "title": "Min. Pemesanan",
-                                        "subtitle": "1 Buah",
-                                        "applink": "",
-                                        "showAtFront": true,
-                                        "isAnnotation": false,
-                                        "__typename": "pdpContentProductDetail"
-                                    },
-                                    {
-                                        "title": "Kategori",
-                                        "subtitle": "Laptop Consumer",
-                                        "applink": "https://www.tokopedia.com/p/komputer-laptop/laptop/laptop-consumer",
-                                        "showAtFront": false,
-                                        "isAnnotation": false,
-                                        "__typename": "pdpContentProductDetail"
-                                    },
-                                    {
-                                        "title": "Etalase",
-                                        "subtitle": "AXIOO",
-                                        "applink": "https://www.tokopedia.com/gateway/etalase/axioo",
-                                        "showAtFront": true,
-                                        "isAnnotation": false,
-                                        "__typename": "pdpContentProductDetail"
-                                    },
-                                    {
-                                        "title": "Katalog",
-                                        "subtitle": "Axioo MyBook Hype 5",
-                                        "applink": "https://www.tokopedia.com/catalog/axioo-190607/axioo-mybook-hype-5",
-                                        "showAtFront": false,
-                                        "isAnnotation": false,
-                                        "__typename": "pdpContentProductDetail"
-                                    },
-                                    {
-                                        "title": "Deskripsi",
-                                        "subtitle": "&#34;Selamat Datang di Gateway Indonesia Comp&#34;\nMenerima Untuk Pengadaan dan Reseller\nJika ingin install aplikasi, request warna, atau faktur pajak mohon ditulis di note saat order (wajib)\n\n\u2705 Wajib Tanyakan Stock Sebelum Order\n\u2705 Free ongkir up to 30RB\n\u2705 Cashback Up to 1 JUTA (Chat admin untuk ketersediaan voucher)\n\u2705 Bisa Upgrade Spek &amp; Garansi Tetap Aman !\n\u2705 Banyak Bonus dan Promo Menarik\n\u2705 Free Cermati Protect 1 TAHUN\n(Cover Perampokan/Pencurian, Kerusakan Tidak Terduga, Terkena Cairan, Bencana Alam)\n======================================================\n\nSpesifikasi :\nColor : Blue &amp; Grey\n\n** CPU : AMD Ryzen 5-3500U CPU\n** GPU : AMD Radeon Vega 8 zen+ GPU\n** Memory : 8GB Memory (1x8GB - DDR4-3200 - 1x SODIMM Slot)\n** Storage : 256GB SSD Storage (PCIe 4.0 - 1x M.2 NVMe Slot)\n** Wireless : Wi-Fi Realtek 8822CE ac/b/g/n and Bluetooth 5.1\n** Dimension : 323 x 219 x 19.8mm\n** Weight : 1.41 kg\n** OS : Microsoft Windows 11 Home Operating System/DOS (Tanpa Operating System)\n** Display : 14&#34; FHD IPS Display\n\n** I/O Ports :\n2x USB 3.2 Gen1 type A port\n1x USB 2.0 port\n1x USB 3.0 Type C port (Full Function : Data, Power, Video)\n1x 3.5mm 2-in-1 Audio Combo Jack\n1x HDMI 1.4 output port\n1x DC-in jack port\n1x Micro SD port up to 128GB\n\nJaminan Barang Original\nGaransi Resmi 2 Tahun\nGaransi Toko Tukar Unit 5 Hari (Jika ada kerusakan pabrik)\n\nKeterangan Paket :\nPaket Basic 1 : Paket Antigores Lengkap (Layar+Body+Cleankit)\nPaket Basic 2 : Mouse Wireless + Mousepad + Sleevecase Carbon\nPaket Basic 3 : Paket Antigores Lengkap + Mouse Wireless + Sleevecase Carbon + Mousepad\n*Mouse random, tergantung stock",
-                                        "applink": "",
-                                        "showAtFront": true,
-                                        "isAnnotation": false,
-                                        "__typename": "pdpContentProductDetail"
-                                    },
-                                    {
-                                        "title": "Fungsionalitas",
-                                        "subtitle": "Sekolah",
-                                        "applink": "",
-                                        "showAtFront": false,
-                                        "isAnnotation": true,
-                                        "__typename": "pdpContentProductDetail"
-                                    },
-                                    {
-                                        "title": "Merek",
-                                        "subtitle": "Axioo",
-                                        "applink": "",
-                                        "showAtFront": false,
-                                        "isAnnotation": true,
-                                        "__typename": "pdpContentProductDetail"
-                                    },
-                                    {
-                                        "title": "Tahun Rilis",
-                                        "subtitle": "2024",
-                                        "applink": "",
-                                        "showAtFront": false,
-                                        "isAnnotation": true,
-                                        "__typename": "pdpContentProductDetail"
-                                    },
-                                    {
-                                        "title": "Tipe Garansi",
-                                        "subtitle": "Garansi Merek (Resmi)",
-                                        "applink": "",
-                                        "showAtFront": false,
-                                        "isAnnotation": true,
-                                        "__typename": "pdpContentProductDetail"
-                                    },
-                                    {
-                                        "title": "Tipe Processor",
-                                        "subtitle": "amd",
-                                        "applink": "",
-                                        "showAtFront": false,
-                                        "isAnnotation": true,
-                                        "__typename": "pdpContentProductDetail"
-                                    }
-                                ],
-                                "__typename": "pdpDataProductDetail"
-                            }
-                        ],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "obat_keras",
-                        "type": "custom_info",
-                        "position": "[1,4,1,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "shop_credibility",
-                        "type": "shop_credibility",
-                        "position": "[1,6,1,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "shipment",
-                        "type": "shipment",
-                        "position": "[1,7,1,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "shipping",
-                        "type": "info",
-                        "position": "[1,8,1,1]",
-                        "data": [
-                            {
-                                "icon": "",
-                                "title": "Kurir",
-                                "isApplink": true,
-                                "applink": "",
-                                "content": [],
-                                "__typename": "pdpDataInfo"
-                            }
-                        ],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "offerings",
-                        "type": "offerings",
-                        "position": "[1,9,1,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "installment_paylater",
-                        "type": "info",
-                        "position": "[1,10,1,1]",
-                        "data": [
-                            {
-                                "icon": "https://images.tokopedia.net/pdp/info/icon/pdp-paylatercicilan@3x.png",
-                                "title": "Paylater & Cicilan",
-                                "isApplink": true,
-                                "applink": "tokopedia://fintech/paylater?category=Laptop+Consumer&price=4699000.000000&productID=14585220000&productURL=https%3A%2F%2Fwww.tokopedia.com%2Fgateway%2Faxioo-hype-5-amd-x3-ryzen-5-3500-8gb-256gb-w11-14-fhd-ips-non-bundling-dos-non-os-691a4",
-                                "content": [],
-                                "__typename": "pdpDataInfo"
-                            }
-                        ],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "QRCode",
-                        "type": "Web2App",
-                        "position": "[1,11,1,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "wholesale",
-                        "type": "info",
-                        "position": "[1,12,1,1]",
-                        "data": [
-                            {
-                                "icon": "",
-                                "title": "Harga Grosir",
-                                "isApplink": true,
-                                "applink": "",
-                                "content": [],
-                                "__typename": "pdpDataInfo"
-                            }
-                        ],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "protection",
-                        "type": "info",
-                        "position": "[1,13,1,1]",
-                        "data": [
-                            {
-                                "icon": "https://images.tokopedia.net/pdp/info/icon/pdp-protection@3x.png",
-                                "title": "Proteksi Gadget",
-                                "isApplink": false,
-                                "applink": "",
-                                "content": [],
-                                "__typename": "pdpDataInfo"
-                            }
-                        ],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "report",
-                        "type": "report",
-                        "position": "[1,14,1,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "product_detail_media",
-                        "type": "product_detail_media",
-                        "position": "[0,15,2,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "review",
-                        "type": "review",
-                        "position": "[0,16,2,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "tdn_topads",
-                        "type": "banner_ads",
-                        "position": "[0,17,2,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "discussion_faq",
-                        "type": "discussion_faq",
-                        "position": "[0,18,2,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "pdp_1",
-                        "type": "product_list",
-                        "position": "[0,19,3,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "pdp_2",
-                        "type": "product_list",
-                        "position": "[0,20,3,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "pdp_3",
-                        "type": "product_list",
-                        "position": "[0,21,3,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    },
-                    {
-                        "name": "pdp_4",
-                        "type": "product_list",
-                        "position": "[0,22,3,1]",
-                        "data": [],
-                        "__typename": "pdpComponent"
-                    }
-                ],
-                "__typename": "pdpLayout"
-            }
-        }
-    },
-    {
-        "data": {
-            "pdpGetLayout": {
-                "requestID": "cqiqj536p33gfuv93gd0",
-                "name": "Default Layout Desktop",
-                "pdpSession": "{\"sid\":263785,\"sd\":\"gateway\",\"cat\":{\"id\":4008,\"d\":[{\"name\":\"Komputer \\u0026 Laptop\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop\",\"id\":297,\"is_adult\":false},{\"name\":\"PC \\u0026 Laptop Gaming\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop/pc-laptop-gaming\",\"id\":3847,\"is_adult\":false},{\"name\":\"Laptop Gaming\",\"breadcrumb_url\":\"https://www.tokopedia.com/p/komputer-laptop/pc-laptop-gaming/laptop-gaming\",\"id\":4008,\"is_adult\":false}]},\"pid\":14582717041,\"ppn\":\"MSI Summit E16 AI Studio Touch Ultra 7 155H RTX4050 6GB/ 16GB 1TB W11+OHS 16\\\" QHD+ 165HZ 100 DCIP3\",\"dcid\":14582717047,\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"opr\":32999000,\"pr\":28699000,\"mo\":1,\"pn\":\"MSI Summit E16 AI Studio Touch Ultra 7 155H RTX4050 6GB/ 16GB 1TB W11+OHS 16\\\" QHD+ 165HZ 100 DCIP3 - Non Bundle\",\"purl\":\"https://www.tokopedia.com/gateway/msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-non-bundle-4d23f\",\"pa\":\"msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-non-bundle-4d23f\",\"st\":99,\"cn\":\"new\",\"li\":1,\"ln\":\"Default Layout Desktop\",\"w\":4.5,\"sf\":{},\"nid\":3,\"ws\":{},\"stat\":{},\"fst\":[{\"FSID\":14784,\"PartnerName\":\"Genie1\",\"FSType\":0,\"ShopID\":263785}],\"mnwhs\":{\"14582717041\":{\"pid\":14582717041,\"wid\":112155,\"pr\":32999000},\"14582717047\":{\"pid\":14582717047,\"wid\":112155,\"pr\":28699000,\"s\":99},\"14582717048\":{\"pid\":14582717048,\"wid\":112155,\"pr\":28899000,\"s\":99},\"14582717049\":{\"pid\":14582717049,\"wid\":112155,\"pr\":28899000,\"s\":99},\"14582717050\":{\"pid\":14582717050,\"wid\":112155,\"pr\":29099000,\"s\":99},\"14582717051\":{\"pid\":14582717051,\"wid\":112155,\"pr\":29299000,\"s\":99}},\"umps\":3,\"nv\":{\"id\":0,\"n\":\"\",\"c\":[]},\"cr\":{\"error_reporter\":null,\"status\":\"\",\"data\":null,\"alternate_copy\":null},\"exp\":{\"saatc\":true},\"patcs\":{\"lid\":21,\"pi\":14582717047,\"pid\":14582717041,\"whid\":112155,\"pr\":28699000,\"opr\":32999000,\"cat\":{\"id\":4008},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}},\"v\":1,\"vd\":{\"14582717047\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":99,\"ib\":true,\"p\":28699000,\"op\":32999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14582717047,\"pid\":14582717041,\"whid\":112155,\"pr\":28699000,\"opr\":32999000,\"cat\":{\"id\":4008},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"14582717048\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":99,\"ib\":true,\"p\":28899000,\"op\":32999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14582717048,\"pid\":14582717041,\"whid\":112155,\"pr\":28899000,\"opr\":32999000,\"cat\":{\"id\":4008},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"14582717049\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":99,\"ib\":true,\"p\":28899000,\"op\":32999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14582717049,\"pid\":14582717041,\"whid\":112155,\"pr\":28899000,\"opr\":32999000,\"cat\":{\"id\":4008},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"14582717050\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":99,\"ib\":true,\"p\":29099000,\"op\":32999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14582717050,\"pid\":14582717041,\"whid\":112155,\"pr\":29099000,\"opr\":32999000,\"cat\":{\"id\":4008},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}},\"14582717051\":{\"cp\":{\"id\":-10000,\"s\":true,\"se\":1,\"sp\":true,\"lr\":{}},\"s\":99,\"ib\":true,\"p\":29299000,\"op\":32999000,\"whid\":112155,\"mo\":1,\"patcs\":{\"pi\":14582717051,\"pid\":14582717041,\"whid\":112155,\"pr\":29299000,\"opr\":32999000,\"cat\":{\"id\":4008},\"cn\":\"NEW\",\"ofr\":{},\"stf\":{}}}},\"pi\":14582717047,\"pse\":1,\"ps\":\"ACTIVE\",\"src\":\"shop\",\"fc\":[\"tidak_kadaluwarsa\"],\"cui\":{},\"srq\":{\"rs\":4.9,\"tr\":7272,\"trt\":15321},\"prtg\":{\"rs\":\"0.0\",\"trf\":\"0\",\"trtif\":\"0\"},\"ispt\":true,\"p2c\":{},\"os\":true,\"swa\":true,\"ma\":[{\"t\":\"Tahun Rilis\",\"v\":[\"2024\"]},{\"t\":\"Tipe Garansi\",\"v\":[\"Garansi Merek (Resmi)\"]}],\"zid\":5}",
-                "basicInfo": {
-                    "alias": "msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-non-bundle-4d23f",
-                    "createdAt": "2024-07-27T17:19:43+07:00",
-                    "isQA": false,
-                    "id": "14582717047",
-                    "shopID": "263785",
-                    "shopName": "Gateway Indonesia Comp",
-                    "minOrder": 1,
-                    "maxOrder": 10,
-                    "weight": 4500,
-                    "weightUnit": "GRAM",
-                    "condition": "NEW",
-                    "status": "ACTIVE",
-                    "url": "https://www.tokopedia.com/gateway/msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-non-bundle-4d23f",
+                    "url": "https://www.tokopedia.com/lenovo-official/lenovo-monitor-legion-r27i-30-27-ips-165hz",
                     "needPrescription": false,
                     "catalogID": "0",
                     "isLeasing": false,
                     "isBlacklisted": false,
                     "isTokoNow": false,
                     "menu": {
-                        "id": "0",
-                        "name": "",
-                        "url": "",
+                        "id": "24648418",
+                        "name": "LENOVO Visual",
+                        "url": "https://www.tokopedia.com/lenovo-official/etalase/lenovo-visual",
                         "__typename": "pdpMenu"
                     },
                     "category": {
-                        "id": "4008",
-                        "name": "Laptop Gaming",
-                        "title": "Laptop Gaming",
-                        "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/pc-laptop-gaming/laptop-gaming",
+                        "id": "3958",
+                        "name": "Monitor LED",
+                        "title": "Monitor LED",
+                        "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/monitor/monitor-led",
                         "isAdult": false,
                         "isKyc": false,
                         "minAge": 0,
@@ -1218,16 +47,16 @@
                                 "__typename": "pdpCategoryDetail"
                             },
                             {
-                                "id": "3847",
-                                "name": "PC & Laptop Gaming",
-                                "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/pc-laptop-gaming",
+                                "id": "3841",
+                                "name": "Monitor",
+                                "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/monitor",
                                 "isAdult": false,
                                 "__typename": "pdpCategoryDetail"
                             },
                             {
-                                "id": "4008",
-                                "name": "Laptop Gaming",
-                                "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/pc-laptop-gaming/laptop-gaming",
+                                "id": "3958",
+                                "name": "Monitor LED",
+                                "breadcrumbURL": "https://www.tokopedia.com/p/komputer-laptop/monitor/monitor-led",
                                 "isAdult": false,
                                 "__typename": "pdpCategoryDetail"
                             }
@@ -1235,18 +64,18 @@
                         "__typename": "pdpCategory"
                     },
                     "txStats": {
-                        "transactionSuccess": "0",
+                        "transactionSuccess": "27",
                         "transactionReject": "0",
-                        "countSold": "0",
-                        "paymentVerified": "0",
-                        "itemSoldFmt": "",
+                        "countSold": "27",
+                        "paymentVerified": "27",
+                        "itemSoldFmt": "27",
                         "__typename": "pdpTxStats"
                     },
                     "stats": {
                         "countView": "0",
-                        "countReview": "0",
-                        "countTalk": "0",
-                        "rating": 0,
+                        "countReview": "16",
+                        "countTalk": "1",
+                        "rating": 5,
                         "__typename": "pdpStats"
                     },
                     "__typename": "pdpBasicInfo"
@@ -1261,122 +90,74 @@
                                 "media": [
                                     {
                                         "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/67f83c23-70dd-4014-820c-4bc4388ba57e.png",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/7/27/67f83c23-70dd-4014-820c-4bc4388ba57e.png",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/67f83c23-70dd-4014-820c-4bc4388ba57e.png",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/1/9/92bff440-ff63-4545-96df-5ac6a44d80c4.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/1/9/92bff440-ff63-4545-96df-5ac6a44d80c4.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/1/9/92bff440-ff63-4545-96df-5ac6a44d80c4.jpg",
                                         "videoUrl": "",
                                         "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/67f83c23-70dd-4014-820c-4bc4388ba57e.png",
+                                        "suffix": "/VqbcmM/2024/1/9/92bff440-ff63-4545-96df-5ac6a44d80c4.jpg",
                                         "description": "",
                                         "variantOptionID": "0",
                                         "__typename": "pdpContentSnapshotMedia"
                                     },
                                     {
                                         "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/32850909-a481-4401-89dc-f6ab2fe4982c.png",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/7/27/32850909-a481-4401-89dc-f6ab2fe4982c.png",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/32850909-a481-4401-89dc-f6ab2fe4982c.png",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/1/9/81064942-3f86-4179-88f6-af8290fb44ab.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/1/9/81064942-3f86-4179-88f6-af8290fb44ab.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/1/9/81064942-3f86-4179-88f6-af8290fb44ab.jpg",
                                         "videoUrl": "",
                                         "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/32850909-a481-4401-89dc-f6ab2fe4982c.png",
+                                        "suffix": "/VqbcmM/2024/1/9/81064942-3f86-4179-88f6-af8290fb44ab.jpg",
                                         "description": "",
                                         "variantOptionID": "0",
                                         "__typename": "pdpContentSnapshotMedia"
                                     },
                                     {
                                         "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/7de2f0fb-4eca-4b49-9913-042a9c9bc5eb.png",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/7/27/7de2f0fb-4eca-4b49-9913-042a9c9bc5eb.png",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/7de2f0fb-4eca-4b49-9913-042a9c9bc5eb.png",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/1/9/a69bc028-8356-450f-99c0-804b53f25927.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/1/9/a69bc028-8356-450f-99c0-804b53f25927.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/1/9/a69bc028-8356-450f-99c0-804b53f25927.jpg",
                                         "videoUrl": "",
                                         "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/7de2f0fb-4eca-4b49-9913-042a9c9bc5eb.png",
+                                        "suffix": "/VqbcmM/2024/1/9/a69bc028-8356-450f-99c0-804b53f25927.jpg",
                                         "description": "",
                                         "variantOptionID": "0",
                                         "__typename": "pdpContentSnapshotMedia"
                                     },
                                     {
                                         "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/12111e53-1a9d-4810-a532-03dc8c69704c.png",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/7/27/12111e53-1a9d-4810-a532-03dc8c69704c.png",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/12111e53-1a9d-4810-a532-03dc8c69704c.png",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/1/9/751a5c51-a76a-4cad-8d24-4bf684d62fcb.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/1/9/751a5c51-a76a-4cad-8d24-4bf684d62fcb.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/1/9/751a5c51-a76a-4cad-8d24-4bf684d62fcb.jpg",
                                         "videoUrl": "",
                                         "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/12111e53-1a9d-4810-a532-03dc8c69704c.png",
+                                        "suffix": "/VqbcmM/2024/1/9/751a5c51-a76a-4cad-8d24-4bf684d62fcb.jpg",
                                         "description": "",
                                         "variantOptionID": "0",
                                         "__typename": "pdpContentSnapshotMedia"
                                     },
                                     {
                                         "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/6bd1fb8b-3461-4837-9c61-4e43a6c92052.png",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/7/27/6bd1fb8b-3461-4837-9c61-4e43a6c92052.png",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/6bd1fb8b-3461-4837-9c61-4e43a6c92052.png",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/1/9/8e235c41-f020-4625-9078-2af4fccddd01.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/1/9/8e235c41-f020-4625-9078-2af4fccddd01.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/1/9/8e235c41-f020-4625-9078-2af4fccddd01.jpg",
                                         "videoUrl": "",
                                         "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/6bd1fb8b-3461-4837-9c61-4e43a6c92052.png",
+                                        "suffix": "/VqbcmM/2024/1/9/8e235c41-f020-4625-9078-2af4fccddd01.jpg",
                                         "description": "",
                                         "variantOptionID": "0",
                                         "__typename": "pdpContentSnapshotMedia"
                                     },
                                     {
                                         "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/a78aa00f-dec1-49bc-8823-564f78893e4f.png",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/7/27/a78aa00f-dec1-49bc-8823-564f78893e4f.png",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/a78aa00f-dec1-49bc-8823-564f78893e4f.png",
+                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/3/5/898d685c-75b6-409b-8664-9a910cba4447.jpg",
+                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/200/VqbcmM/2024/3/5/898d685c-75b6-409b-8664-9a910cba4447.jpg",
+                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/3/5/898d685c-75b6-409b-8664-9a910cba4447.jpg",
                                         "videoUrl": "",
                                         "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/a78aa00f-dec1-49bc-8823-564f78893e4f.png",
+                                        "suffix": "/VqbcmM/2024/3/5/898d685c-75b6-409b-8664-9a910cba4447.jpg",
                                         "description": "",
                                         "variantOptionID": "0",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    },
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/9555a79f-0a1b-4894-86a0-13745267741a.jpg",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/9555a79f-0a1b-4894-86a0-13745267741a.jpg",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/9555a79f-0a1b-4894-86a0-13745267741a.jpg",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/9555a79f-0a1b-4894-86a0-13745267741a.jpg",
-                                        "description": "Basic 1",
-                                        "variantOptionID": "2809345670",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    },
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/a23134d3-3791-4c96-af75-d134d5184934.jpg",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/a23134d3-3791-4c96-af75-d134d5184934.jpg",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/a23134d3-3791-4c96-af75-d134d5184934.jpg",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/a23134d3-3791-4c96-af75-d134d5184934.jpg",
-                                        "description": "Basic 2",
-                                        "variantOptionID": "2809345671",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    },
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5a8dd687-5d52-440b-9f7f-f9688e93bc6d.jpg",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5a8dd687-5d52-440b-9f7f-f9688e93bc6d.jpg",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5a8dd687-5d52-440b-9f7f-f9688e93bc6d.jpg",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/5a8dd687-5d52-440b-9f7f-f9688e93bc6d.jpg",
-                                        "description": "Basic 3",
-                                        "variantOptionID": "2809345672",
-                                        "__typename": "pdpContentSnapshotMedia"
-                                    },
-                                    {
-                                        "type": "image",
-                                        "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5ec732ed-1866-4cc4-8ac9-7a73658a696b.jpg",
-                                        "urlThumbnail": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5ec732ed-1866-4cc4-8ac9-7a73658a696b.jpg",
-                                        "urlMaxRes": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5ec732ed-1866-4cc4-8ac9-7a73658a696b.jpg",
-                                        "videoUrl": "",
-                                        "prefix": "https://images.tokopedia.net/img/cache/",
-                                        "suffix": "/VqbcmM/2024/7/27/5ec732ed-1866-4cc4-8ac9-7a73658a696b.jpg",
-                                        "description": "+Windows 11 Pro",
-                                        "variantOptionID": "2809345673",
                                         "__typename": "pdpContentSnapshotMedia"
                                     }
                                 ],
@@ -1406,12 +187,12 @@
                         "position": "[1,1,1,1]",
                         "data": [
                             {
-                                "name": "MSI Summit E16 AI Studio Touch Ultra 7 155H RTX4050 6GB/ 16GB 1TB W11+OHS 16\" QHD+ 165HZ 100 DCIP3 - Non Bundle",
+                                "name": "Lenovo Monitor Legion R27i-30 27\" IPS 165Hz",
                                 "price": {
-                                    "value": 28699000,
+                                    "value": 2689000,
                                     "currency": "IDR",
-                                    "priceFmt": "Rp28.699.000",
-                                    "slashPriceFmt": "Rp32.999.000",
+                                    "priceFmt": "Rp2.689.000",
+                                    "slashPriceFmt": "Rp3.099.000",
                                     "discPercentage": "13%",
                                     "__typename": "pdpContentSnapshotPrice"
                                 },
@@ -1422,15 +203,15 @@
                                     "campaignIdentifier": 2,
                                     "background": "#D74049,#F56958",
                                     "percentageAmount": 13,
-                                    "originalPrice": 32999000,
-                                    "discountedPrice": 28699000,
-                                    "originalStock": 99,
-                                    "stock": 99,
+                                    "originalPrice": 3099000,
+                                    "discountedPrice": 2689000,
+                                    "originalStock": 20,
+                                    "stock": 20,
                                     "stockSoldPercentage": 0,
                                     "threshold": 0,
-                                    "startDate": "2024-07-27 10:29:53",
-                                    "endDate": "2025-07-27 10:29:53",
-                                    "endDateUnix": "1753586993",
+                                    "startDate": "2024-01-09 11:52:33",
+                                    "endDate": "2025-01-09 11:52:33",
+                                    "endDateUnix": "1736398353",
                                     "appLinks": "",
                                     "isAppsOnly": false,
                                     "isActive": true,
@@ -1446,13 +227,13 @@
                                 },
                                 "stock": {
                                     "useStock": true,
-                                    "value": "99",
+                                    "value": "20",
                                     "stockWording": "",
                                     "__typename": "pdpContentSnapshotStock"
                                 },
                                 "variant": {
-                                    "isVariant": true,
-                                    "parentID": "14582717041",
+                                    "isVariant": false,
+                                    "parentID": "0",
                                     "__typename": "pdpContentSnapshotVariant"
                                 },
                                 "wholesale": [],
@@ -1478,400 +259,6 @@
                         "__typename": "pdpComponent"
                     },
                     {
-                        "name": "new_variant_options",
-                        "type": "variant",
-                        "position": "[1,2,1,1]",
-                        "data": [
-                            {
-                                "errorCode": 0,
-                                "parentID": "14582717041",
-                                "defaultChild": "14582717047",
-                                "sizeChart": "",
-                                "totalStockFmt": "495",
-                                "variants": [
-                                    {
-                                        "productVariantID": "825958550",
-                                        "variantID": "0",
-                                        "name": "bundle",
-                                        "identifier": "",
-                                        "option": [
-                                            {
-                                                "picture": {
-                                                    "urlOriginal": "",
-                                                    "urlThumbnail": "",
-                                                    "__typename": "pdpProductVariantPicture"
-                                                },
-                                                "productVariantOptionID": "2809345669",
-                                                "variantUnitValueID": "0",
-                                                "value": "Non Bundle",
-                                                "hex": "",
-                                                "stock": "99",
-                                                "__typename": "pdpProductVariantOption"
-                                            },
-                                            {
-                                                "picture": {
-                                                    "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/9555a79f-0a1b-4894-86a0-13745267741a.jpg",
-                                                    "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/9555a79f-0a1b-4894-86a0-13745267741a.jpg",
-                                                    "__typename": "pdpProductVariantPicture"
-                                                },
-                                                "productVariantOptionID": "2809345670",
-                                                "variantUnitValueID": "0",
-                                                "value": "Basic 1",
-                                                "hex": "",
-                                                "stock": "99",
-                                                "__typename": "pdpProductVariantOption"
-                                            },
-                                            {
-                                                "picture": {
-                                                    "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/a23134d3-3791-4c96-af75-d134d5184934.jpg",
-                                                    "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/a23134d3-3791-4c96-af75-d134d5184934.jpg",
-                                                    "__typename": "pdpProductVariantPicture"
-                                                },
-                                                "productVariantOptionID": "2809345671",
-                                                "variantUnitValueID": "0",
-                                                "value": "Basic 2",
-                                                "hex": "",
-                                                "stock": "99",
-                                                "__typename": "pdpProductVariantOption"
-                                            },
-                                            {
-                                                "picture": {
-                                                    "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5a8dd687-5d52-440b-9f7f-f9688e93bc6d.jpg",
-                                                    "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/5a8dd687-5d52-440b-9f7f-f9688e93bc6d.jpg",
-                                                    "__typename": "pdpProductVariantPicture"
-                                                },
-                                                "productVariantOptionID": "2809345672",
-                                                "variantUnitValueID": "0",
-                                                "value": "Basic 3",
-                                                "hex": "",
-                                                "stock": "99",
-                                                "__typename": "pdpProductVariantOption"
-                                            },
-                                            {
-                                                "picture": {
-                                                    "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5ec732ed-1866-4cc4-8ac9-7a73658a696b.jpg",
-                                                    "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/5ec732ed-1866-4cc4-8ac9-7a73658a696b.jpg",
-                                                    "__typename": "pdpProductVariantPicture"
-                                                },
-                                                "productVariantOptionID": "2809345673",
-                                                "variantUnitValueID": "0",
-                                                "value": "+Windows 11 Pro",
-                                                "hex": "",
-                                                "stock": "99",
-                                                "__typename": "pdpProductVariantOption"
-                                            }
-                                        ],
-                                        "__typename": "pdpProductVariantOutput"
-                                    }
-                                ],
-                                "children": [
-                                    {
-                                        "productID": "14582717047",
-                                        "price": 28699000,
-                                        "priceFmt": "Rp28.699.000",
-                                        "slashPriceFmt": "Rp32.999.000",
-                                        "discPercentage": "13%",
-                                        "optionID": [
-                                            2809345669
-                                        ],
-                                        "optionName": [
-                                            "Non Bundle"
-                                        ],
-                                        "productName": "MSI Summit E16 AI Studio Touch Ultra 7 155H RTX4050 6GB/ 16GB 1TB W11+OHS 16\" QHD+ 165HZ 100 DCIP3 - Non Bundle",
-                                        "productURL": "https://www.tokopedia.com/gateway/msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-non-bundle-4d23f",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/67f83c23-70dd-4014-820c-4bc4388ba57e.png",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/67f83c23-70dd-4014-820c-4bc4388ba57e.png",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "99",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 13,
-                                            "originalPrice": 32999000,
-                                            "discountPrice": 28699000,
-                                            "stock": 99,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 10:29:53",
-                                            "endDate": "2025-07-27 10:29:53",
-                                            "endDateUnix": "1753586993",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    },
-                                    {
-                                        "productID": "14582717048",
-                                        "price": 28899000,
-                                        "priceFmt": "Rp28.899.000",
-                                        "slashPriceFmt": "Rp32.999.000",
-                                        "discPercentage": "12%",
-                                        "optionID": [
-                                            2809345670
-                                        ],
-                                        "optionName": [
-                                            "Basic 1"
-                                        ],
-                                        "productName": "MSI Summit E16 AI Studio Touch Ultra 7 155H RTX4050 6GB/ 16GB 1TB W11+OHS 16\" QHD+ 165HZ 100 DCIP3 - Basic 1",
-                                        "productURL": "https://www.tokopedia.com/gateway/msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-basic-1-33056",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/9555a79f-0a1b-4894-86a0-13745267741a.jpg",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/9555a79f-0a1b-4894-86a0-13745267741a.jpg",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "99",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 12,
-                                            "originalPrice": 32999000,
-                                            "discountPrice": 28899000,
-                                            "stock": 99,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 10:29:53",
-                                            "endDate": "2025-07-27 10:29:53",
-                                            "endDateUnix": "1753586993",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    },
-                                    {
-                                        "productID": "14582717049",
-                                        "price": 28899000,
-                                        "priceFmt": "Rp28.899.000",
-                                        "slashPriceFmt": "Rp32.999.000",
-                                        "discPercentage": "12%",
-                                        "optionID": [
-                                            2809345671
-                                        ],
-                                        "optionName": [
-                                            "Basic 2"
-                                        ],
-                                        "productName": "MSI Summit E16 AI Studio Touch Ultra 7 155H RTX4050 6GB/ 16GB 1TB W11+OHS 16\" QHD+ 165HZ 100 DCIP3 - Basic 2",
-                                        "productURL": "https://www.tokopedia.com/gateway/msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-basic-2-19273",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/a23134d3-3791-4c96-af75-d134d5184934.jpg",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/a23134d3-3791-4c96-af75-d134d5184934.jpg",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "99",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 12,
-                                            "originalPrice": 32999000,
-                                            "discountPrice": 28899000,
-                                            "stock": 99,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 10:29:53",
-                                            "endDate": "2025-07-27 10:29:53",
-                                            "endDateUnix": "1753586993",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    },
-                                    {
-                                        "productID": "14582717050",
-                                        "price": 29099000,
-                                        "priceFmt": "Rp29.099.000",
-                                        "slashPriceFmt": "Rp32.999.000",
-                                        "discPercentage": "12%",
-                                        "optionID": [
-                                            2809345672
-                                        ],
-                                        "optionName": [
-                                            "Basic 3"
-                                        ],
-                                        "productName": "MSI Summit E16 AI Studio Touch Ultra 7 155H RTX4050 6GB/ 16GB 1TB W11+OHS 16\" QHD+ 165HZ 100 DCIP3 - Basic 3",
-                                        "productURL": "https://www.tokopedia.com/gateway/msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-basic-3-59522",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5a8dd687-5d52-440b-9f7f-f9688e93bc6d.jpg",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/5a8dd687-5d52-440b-9f7f-f9688e93bc6d.jpg",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "99",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 12,
-                                            "originalPrice": 32999000,
-                                            "discountPrice": 29099000,
-                                            "stock": 99,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 10:29:53",
-                                            "endDate": "2025-07-27 10:29:53",
-                                            "endDateUnix": "1753586993",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    },
-                                    {
-                                        "productID": "14582717051",
-                                        "price": 29299000,
-                                        "priceFmt": "Rp29.299.000",
-                                        "slashPriceFmt": "Rp32.999.000",
-                                        "discPercentage": "11%",
-                                        "optionID": [
-                                            2809345673
-                                        ],
-                                        "optionName": [
-                                            "+Windows 11 Pro"
-                                        ],
-                                        "productName": "MSI Summit E16 AI Studio Touch Ultra 7 155H RTX4050 6GB/ 16GB 1TB W11+OHS 16\" QHD+ 165HZ 100 DCIP3 - +Windows 11 Pro",
-                                        "productURL": "https://www.tokopedia.com/gateway/msi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-windows-11-pro-a1943",
-                                        "picture": {
-                                            "urlOriginal": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/7/27/5ec732ed-1866-4cc4-8ac9-7a73658a696b.jpg",
-                                            "urlThumbnail": "https://images.tokopedia.net/img/cache/150/VqbcmM/2024/7/27/5ec732ed-1866-4cc4-8ac9-7a73658a696b.jpg",
-                                            "__typename": "pdpProductVariantPicture"
-                                        },
-                                        "stock": {
-                                            "stock": "99",
-                                            "isBuyable": true,
-                                            "stockWordingHTML": "",
-                                            "minimumOrder": "1",
-                                            "maximumOrder": "10",
-                                            "__typename": "pdpProductVariantStock"
-                                        },
-                                        "isCOD": false,
-                                        "isWishlist": false,
-                                        "campaignInfo": {
-                                            "campaignID": "-10000",
-                                            "campaignType": "0",
-                                            "campaignTypeName": "Diskon Terbatas",
-                                            "campaignIdentifier": 2,
-                                            "background": "#D74049,#F56958",
-                                            "discountPercentage": 11,
-                                            "originalPrice": 32999000,
-                                            "discountPrice": 29299000,
-                                            "stock": 99,
-                                            "stockSoldPercentage": 0,
-                                            "startDate": "2024-07-27 10:29:53",
-                                            "endDate": "2025-07-27 10:29:53",
-                                            "endDateUnix": "1753586993",
-                                            "appLinks": "",
-                                            "isAppsOnly": false,
-                                            "isActive": true,
-                                            "hideGimmick": false,
-                                            "isCheckImei": false,
-                                            "minOrder": 1,
-                                            "__typename": "pdpProductVariantCampaign"
-                                        },
-                                        "thematicCampaign": {
-                                            "additionalInfo": "",
-                                            "background": "",
-                                            "campaignName": "",
-                                            "icon": "",
-                                            "__typename": "pdpContentSnapshotThematicCampaign"
-                                        },
-                                        "__typename": "pdpProductVariantChildren"
-                                    }
-                                ],
-                                "__typename": "pdpDataProductVariant"
-                            }
-                        ],
-                        "__typename": "pdpComponent"
-                    },
-                    {
                         "name": "product_detail",
                         "type": "product_detail",
                         "position": "[1,3,1,1]",
@@ -1888,7 +275,7 @@
                                     },
                                     {
                                         "title": "Berat Satuan",
-                                        "subtitle": "4,5 kg",
+                                        "subtitle": "20 kg",
                                         "applink": "",
                                         "showAtFront": false,
                                         "isAnnotation": false,
@@ -1904,23 +291,23 @@
                                     },
                                     {
                                         "title": "Kategori",
-                                        "subtitle": "Laptop Gaming",
-                                        "applink": "https://www.tokopedia.com/p/komputer-laptop/pc-laptop-gaming/laptop-gaming",
+                                        "subtitle": "Monitor LED",
+                                        "applink": "https://www.tokopedia.com/p/komputer-laptop/monitor/monitor-led",
                                         "showAtFront": false,
                                         "isAnnotation": false,
                                         "__typename": "pdpContentProductDetail"
                                     },
                                     {
                                         "title": "Etalase",
-                                        "subtitle": "Semua Etalase",
-                                        "applink": "https://www.tokopedia.com/gateway/etalase/all",
+                                        "subtitle": "LENOVO Visual",
+                                        "applink": "https://www.tokopedia.com/lenovo-official/etalase/lenovo-visual",
                                         "showAtFront": true,
                                         "isAnnotation": false,
                                         "__typename": "pdpContentProductDetail"
                                     },
                                     {
                                         "title": "Deskripsi",
-                                        "subtitle": "&#34;Selamat Datang di Gateway Indonesia Comp&#34;\nMenerima Untuk Pengadaan dan Reseller\nJika ingin install aplikasi, request warna, atau faktur pajak mohon ditulis di note saat order (wajib)\n\n\u2705 Wajib Tanyakan Stock Sebelum Order\n\u2705 Free ongkir up to 30RB\n\u2705 Cashback Up to 1 JUTA (Chat admin untuk ketersediaan voucher)\n\u2705 Bisa Upgrade Spek &amp; Garansi Tetap Aman !\n\u2705 Banyak Bonus dan Promo Menarik\n\u2705 Free Cermati Protect 1 TAHUN\n(Cover Perampokan/Pencurian, Kerusakan Tidak Terduga, Terkena Cairan, Bencana Alam)\n\nKeterangan Paket :\nPaket Basic 1 : Paket Antigores Lengkap (Layar+Body+Cleankit)\nPaket Basic 2 : Mouse Wireless + Mousepad + Sleevecase Carbon\nPaket Basic 3 : Paket Antigores Lengkap + Mouse Wireless + Sleevecase Carbon + Mousepad\n*Mouse random, tergantung stock\n======================================================\nMSI SUMMIT E16 AI STUDIO TOUCH ULTRA 7 155H RTX4050 6GB/ 16GB 1TB W11+OHS 16.0QHD+ 165HZ 100DCIP3 PEN 2Y BLK -A1VETG.049\n\nSpesifikasi :\n** Processor : Intel\u00ae Core\u2122 Ultra 7 processor 155H with Intel\u00ae AI Boost (NPU)\n16 cores (6 P-cores + 8 E-cores + 2 Low Power E-cores), Max Turbo Frequency 4.8 GHz\n** Display : 16&#34; QHD+(2560x1600), 165Hz Refresh Rate, IPS-Level, 100% DCI-P3(Typical), Touchscreen, MSI Precision Pen Touch Technology (MPPT), Support MSI Pen 2 (Optional)\n** Memory : 32GB, LPDDR5-6400, On board\n** Storage : 1TB*1 NVMe SSD PCIe Gen4. 1x M.2 SSD slot (NVMe PCIe Gen4)\n** Graphics : NVIDIA\u00ae GeForce RTX\u2122 4050 Laptop GPU\nUp to 1605MHz Boost Clock 45W Maximum Graphics Power with Dynamic Boost. *May vary by scenario\n** Keyboard : Single Backlit Keyboard (White) with Copilot Key\t\n** Wireless : Intel\u00ae Killer\u2122 Wi-Fi 7 BE1750, Bluetooth v5.4\t\n** OS : Windows 11 Home + Microsoft Office Home &amp; Student 2021\n\n** Ports :\n1x Type-C (USB / DP / Thunderbolt\u2122 4) with PD3.1 charging\n1x Type-C (USB3.2 Gen2 / DP) with PD charging\n1x Type-A USB3.2 Gen2\n1x HDMI\u2122 2.1 (8K @ 60Hz / 4K @ 120Hz)\n1x Micro SD\n\n** AC Adapter : 140W Adaptor\n** Battery : 4-Cell 82 Whrs\n** Color : Ink Black\t\n** Weight : 2.1 kg\n** Warranty : 2 years limited warranty",
+                                        "subtitle": "Lenovo Legion R27i-30\nPart Number : 67B5GAC1WW\n\nPERFORMANCE\nDisplay Size\t27&#34;\nView Area\t596.7x335.7 mm\nPanel\tIn-Plane Switching\nBacklight\tWLED\nAspect Ratio\t16:9\nResolution\t1920x1080\nPixel Pitch\t0.311x0.311 mm\nDot / Pixel Per Inch\t82 dpi\nView Angle (H / V)\t178\u00b0 / 178\u00b0\nResponse Time\t0.5 ms (MPRT) / 1 ms (Level 4) / 2 ms (Level 3) / 3ms (Level 2) / 4 ms (Level 1)\nColor Support\t16.7 Million\nRefresh Rate\t165Hz (Overclock to 180Hz)\nBrightness\t350 cd/m\u00b2 (Typical) / 400 cd/m\u00b2 (Peak)\nContrast Ratio\t1000:1\nColor Gamut\t99% sRGB, 90% DCI-P3\nScreen Surface Treatment\tAnti-glare\nCurvature\tFlat Panel\nCamera\tNone\nMicrophone\tNone\nSpeakers\t3Wx2\nPower Consumption (Typical / Maximum)\t21W / 46W\nPower Adapter\tIntegrated\nTouchscreen\tNone\nSmart System\tNone\nDESIGN\nStand\tTilt, Swivel, Pivot, Height Adjust Stand\nCase Color\tRaven Black\nSide Bezel Width\t2.0 mm\nDimensions with Stand (HxWxD)\t527.4 x 613.6 x 258.8 mm / 20.76 x 24.16 x 10.19 inches\nWeight (Including Stand)\t6.8 kg / 15 lbs.\nMounting\tSupports VESA mount 100mm\nThinkCentre M Series Support\tNone\nCONNECTIVITY\nUSB Port\tNone\nVideo Connector\t2x HDMI\u00ae 2.1, 1x DP 1.4\nNetwork Connectivity\tNone\nSERVICE\nBase Warranty\t3-year\nCERTIFICATIONS\nEnvironmental Certification\t\nRoHS, EU Energy Efficiency Level (Level-E)\nErgonomic Certification\t\nEyesafe\u00ae Display 2.0, T\u00dcV Low Blue Light (Hardware solution), T\u00dcV Rheinland\u00ae Eye Comfort\nSync Technology\t\nAMD FreeSync\u2122 Premium, VESA Adaptive Sync\nSpecial Features:\nDisplayHDR\u2122 400\nGaming Console Support\nNatural Low Blue Light\nVESA Adaptive Sync\nAMD FreeSync\u2122 Premium\nAMD FreeSync technology only can work with AMD Radeon\u2122 series graphics card.\nLenovo\u00ae Artery (Lenovo Display Accessories and Display Manager) Support\nLenovo Artery supports Windows\u00ae 10 &amp; 11, Mac OS, and Windows On Arm (functions vary across systems).\nLenovo Display Accessories and Display Manager is formerly Lenovo Display Control Center.\nSOFTWARE\nOperating System\tSupport Windows\u00ae 10, Windows 11\nACCESSORIES\nVideo Cable DP Cable",
                                         "applink": "",
                                         "showAtFront": true,
                                         "isAnnotation": false,
@@ -2001,7 +388,7 @@
                                 "icon": "https://images.tokopedia.net/pdp/info/icon/pdp-paylatercicilan@3x.png",
                                 "title": "Paylater & Cicilan",
                                 "isApplink": true,
-                                "applink": "tokopedia://fintech/paylater?category=Laptop+Gaming&price=28699000.000000&productID=14582717047&productURL=https%3A%2F%2Fwww.tokopedia.com%2Fgateway%2Fmsi-summit-e16-ai-studio-touch-ultra-7-155h-rtx4050-6gb-16gb-1tb-w11-ohs-16-qhd-165hz-100-dcip3-non-bundle-4d23f",
+                                "applink": "tokopedia://fintech/paylater?category=Monitor+LED&price=2689000.000000&productID=12494257446&productURL=https%3A%2F%2Fwww.tokopedia.com%2Flenovo-official%2Flenovo-monitor-legion-r27i-30-27-ips-165hz",
                                 "content": [],
                                 "__typename": "pdpDataInfo"
                             }

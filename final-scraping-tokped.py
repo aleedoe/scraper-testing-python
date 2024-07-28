@@ -6,7 +6,19 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+from urllib.parse import urlparse
 
+def extract_product_path(url):
+    # Parsing URL
+    parsed_url = urlparse(url)
+    
+    # Mengambil path dan memecahnya berdasarkan '/'
+    path_parts = parsed_url.path.split('/')
+    
+    # Bagian terakhir dari path
+    product_part = path_parts[-1]
+    
+    return product_part
 
 def fetchingProducts(wait, driver):
     page = 1
@@ -32,12 +44,16 @@ def fetchingProducts(wait, driver):
                     
                     driver.execute_script("arguments[0].scrollIntoView(true);", product)
                     wait.until(EC.element_to_be_clickable(product)).click()
-
-                    current_url = driver.current_url
-                    print(f"URL produk ke-{index + 1}: {current_url}")
                     
                     title = wait.until(EC.visibility_of_element_located((By.XPATH, '//*[@id="pdp_comp-product_content"]/div/div[1]/h1')))
+                    print("")
                     print(f"nama ke-{index + 1}: {title.text}")
+                    current_url = driver.current_url
+                    print(f"URL produk ke-{index + 1}: {current_url}")
+                    url_to_api = extract_product_path(current_url)
+                    print(f"API fetching URL produk ke-{index + 1}: {url_to_api}")
+                    print("")
+
                     
                     driver.back()
                     
